@@ -1,4 +1,4 @@
-# 📈 NVIDIA Stock Price Prediction
+# 📈  Stock Prediction (Nvidia)
 
 ### 🔍 Overview
 This project aims to predict NVIDIA's stock prices using machine learning models. We leverage **historical stock data**, perform **exploratory data analysis (EDA)**, and implement **time series forecasting** techniques to make future price predictions.
