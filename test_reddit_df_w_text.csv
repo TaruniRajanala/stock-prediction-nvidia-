@@ -1,0 +1,998 @@
+Post_Title,Post_URL,Post_Text,Date_Posted,Upvotes,Comments,Subreddit
+Why did DeepSeek cause NVIDIA to drop? Doesn’t it rely on NVIDIA?,https://www.reddit.com/r/stocks/comments/1ijbs4l/why_did_deepseek_cause_nvidia_to_drop_doesnt_it/,"Doesn’t it use NVIDIA to train their LLMs as well as run their service? Shouldn’t this alone have caused its share price to spike?
+
+Also, it seems DeepSeek’s $5m training cost for their LLM is a big deal. So what, though? In many comparisons they’re still slightly worse than GPT-4… and there are MANY LLMs out there that are free and catching up with GPT-4.
+
+Speaking of DeepSeek’s training cost, Stanford trained one with $600 back in 2023. Adjusted to inflation it’s still about $5m cheaper than DeepSeek’s. ",2025-02-06 19:59:32,0,23,stocks
+"SMCI - Road to Redemption, or The Final Blow?",https://www.reddit.com/r/stocks/comments/1ij454t/smci_road_to_redemption_or_the_final_blow/,"We are approaching what could be one of the largest opportunities of the year: aping into an equity that has been continually embroiled in SEC investigations.
+
+I, of course, am speaking of Supermicro (SMCI).
+
+ If you are not familiar, Supermicro (henceforth SMCI) became the poster child for GPU server buildouts, mainly leveraging their liquid cooling capabilities which made them highly appealing to hyperscalers. There are entire realms of study dedicated to the science cooling server farms, and those circles have supported liquid cooling for quite a while, and they are a total darling of Nvidia. It traded to a high of $124 during AI exuberance as a pick-and-shovel play, only to have an Icarian fall back to low double digits, trading to $17 at its lowest.
+
+This fall was due to the now-defunct Hindenburg short selling group, who in 2024 released a report that SMCI was engaging in less than savory, and manipulative at worse, accounting practices that essentially reported revenue that had not been received. Additionally, the report alleges that the company was evading export restrictions on GPUs by shipping to Russia. Unverified, but it is known that Chinese companies DID get their hands on restricted GPUs through SMCI products. The next day, SMCI delayed the filling of its 10-k, crushing the stock price. The DoJ then probed the company. SMCI hired Ernst & Young to audit the company which saw the auditors quit as they experienced what they referred to as an unwillingness on the part of executives to aid them. The equity price was entirely demolished by this point.
+
+A somewhat bump in the stock price was due to regulatory bodies allowing them until Feb 25th, 2025 to publish their delinquent earnings.
+
+Now for the recent updates.
+
+Earlier this week, the company stated that they would release a business update next Tuesday, February 11th before the filing deadline on February 25th. This has rocketed the stock logarithmically as people anticipate un-audited earnings and confirmation that they will be able to file by the deadline. Additionally, they stated that they have cooling racks with built-in Blackwell chips ready to go. If this is all true, and earnings are good, this stock price will skyrocket. We will see $50 by the end of the week, if not higher. This, of course, is delectable. I personally am eyeing Feb 28th 37 C @ 2.90.
+
+However, there are some major issues beyond those outlined within the saga.
+
+1. There is a major chance that they announce they will take this private. While they were able to secure BDO post E&Y failure, there has been little visibility on the progress of the audit and filing progress.
+2. There is a high chance that the company will restate past financials. This may not be a problem if forward guidance is good, but if there is no margin for error.
+3. Nvidia tried to distance itself from SMCI by vendoring to Gigabyte and ASRock. This could have greatly decreased potential revenue for SMCI
+4. In December, they considered a private investment in public equity by engaging Evercore, which would help them raise the capital. This casts doubts on the integrity of the financials and health of sales.
+5. There has been an absurd amount of dark pool buying, and a good amount of insider buying. What strikes me as strange, however, is that the insider buying is done by Cheung, the man who oversaw the ""botched"" financials.
+
+To conclude, I'm at a sort of impasse here. This is obviously a highly risky play, but I could not forgive myself if I did not put my balls on the table and it takes off. Part of this is me just talking to myself, but maybe you all will find some utility in reading this, or share your thoughts (or lack thereof).",2025-02-06 14:45:18,36,67,stocks
+These are the stocks on my watchlist (02/6),https://www.reddit.com/r/stocks/comments/1ij3k6i/these_are_the_stocks_on_my_watchlist_026/,"This is a daily watchlist for short-term trading: I might trade all/none of the stocks listed, and even stocks not listed!
+
+I am targeting potentially good candidates for short-term trading; I have no opinion on them as investments.
+
+The potential of the stock moving today is what makes it interesting, everything else is secondary.
+
+News: [Us Initial Jobless Claims Pick Up But Stay Relatively Low](https://www.bloomberg.com/news/articles/2025-02-06/us-initial-jobless-claims-pick-up-but-stay-relatively-low)
+
+**Ticker:** [**F (Ford Motor Company)**](https://finviz.com/quote.ashx?t=F&p=d)
+
+**Catalyst:** Ford Motor Company reports .39 vs .34 expected, revenue of $48.2 vs 43.6B expected. Announces that profit could fall by $2B or more due to tariffs and lower EV demand.
+
+**Technicals:** Pretty much broke the $10 level it's been trading around since August, watching to see if it'll sell off more by the open. Highly/infinitely liquid.
+
+**Catalyst/Sector Context:** The entire automotive industry is challenged by tariffs. F guided lower for 2025.
+
+**Risks:** Obviously these are one of the bigger movers from Mexico tariffs (most cars are assembled in Mexico then shipped to the US).
+
+**Related Tickers:** GM, TSLA, STLA.
+
+**Offhand Comments:** Ford's outlook reflects the broader industry's apprehension about geopolitical factors affecting operations and profitability. Interesting to see how other car companies react to earnings as well.
+
+**Ticker:** [**ARM (Arm Holdings)**](https://finviz.com/quote.ashx?t=ARM&p=d)
+
+**Catalyst:** ARM reported EPS of $0.39 vs. $0.34 expected. Revenue of $983 million vs. $959M expected. Buoyed by Deepseek ban news, most likely as well.
+
+**Technicals:** Was down roughly 8% after earnings, but seems to be somewhat recovering after Deepseek news.
+
+**Catalyst/Sector Context:** Semiconductor sector is experiencing heightened demand, especially after PLTR's comments that the AI train will never stop. We're seeing growth in data center applications, the main driver of semis purchases.
+
+**Risks:** Despite strong performance, Arm's lowered full-year revenue forecast has led to a 6% drop in its shares.
+
+**Related Tickers:** NVDA, AMD, INTC.
+
+**Ticker:** [**RBLX (Roblox Corporation)**](https://finviz.com/quote.ashx?t=RBLX&p=d)
+
+**Catalyst:** Roblox Corporation reported earnings with an EPS of -$0.33 vs. -$0.46 expected. Revenue of $988.2M vs. $967.2M expected.
+
+**Technicals:** $50 is the clear level here, note that earnings were released premarket rather than aftermarket yesterday. Seems to be a massive overreaction selloff (but has recovered somewhat).
+
+**Risks:** IIRC Roblox isn't profitable yet- they're focusing on growth/revenue over profits, but most of their costs are outside their control (platform fees like the Apple store, developers, infrastructure for trust/safety for minors).
+
+**Related Tickers:** EA, TTWO.
+
+**Ticker:** [**NVDA (NVIDIA Corporation)**](https://finviz.com/quote.ashx?t=NVDA&p=d)
+
+**Catalyst:** DeepSeek, a Chinese AI start-up, has temporarily suspended its API service top-ups due to server resource constraints. Additionally, U.S. lawmakers plan to introduce a bill to ban DeepSeek's chatbot application from government-owned devices over data security concerns.
+
+**Catalyst/Sector Context:** The AI industry is under increased scrutiny regarding data security and geopolitical tensions but that's grown more laissez-faire under Trump. DeepSeek's service suspension and potential U.S. government ban helps American chip makers and NVDA especially, due to their continued dominance.
+
+**Risks:** Deepseek getting banned will likely lead to greater reliance on American AI chatbots, spurring growth in American semis manufacturers.
+
+**Related Tickers:** AMD, INTC, QCOM.
+
+**Offhand Comments:** (I am currently long).
+
+**Ticker:** [**SWKS (Skyworks Solutions)**](https://finviz.com/quote.ashx?t=SWKS&p=d)
+
+**Catalyst:** EPS of $1.60 vs. $1.57 expected. Revenue of $1.07B vs 1.07B expected. Reports $2B stock buyback plan.
+
+**Technicals:** Watching the $60 level, we've had a brutal fall from $90->$60. If we get closer I'm interested in some small bounce depending on volume/size of the move.
+
+**Catalyst/Sector Context:** SWKS supplies some of the chips for Apple's iPhone, and their iPhone sales haven't done too well recently- thus this has a knock-on effect by affecting SWKS's sales.
+
+**Risks:** SWKS projected a revenue decline for the mobile segment and issued a lower profit forecast. They stated they anticipated a ""mid-to-high teens decline in mobile.""
+
+**Offhand Comments: A lot of the firms that manufacture parts for the iPhone are linked in performance, especially if the iPhone is the main source of their sales- would be interesting to formulate some trading ideas from that.**
+
+**Related Tickers:** QCOM, AVGO, TXN.
+
+**Earnings today:** [**AMZN**](https://finviz.com/quote.ashx?t=AMZN&p=d).",2025-02-06 14:18:22,52,16,stocks
+Thinking about NVDA beyond 2025 Hyperscaler CapEx Growth,https://www.reddit.com/r/stocks/comments/1iihlgz/thinking_about_nvda_beyond_2025_hyperscaler_capex/,"With 3/4 hyperscalers reporting earnings already, the reaction to Nvidia has been positive, but stock still trades less than before DeepSeek. I believe the sentiment is that while 2025 will be great, Nvidia is nearing the ""end of great times"" and moving to a ""just good times"".
+
+**Here's my take at a breakdown. I am not an expert, but have read a lot of positive and negative takes, I'm starting this thread to start a discussion not to pump the stock. Please don't comment ""Nvidia diamond hands durr"".** I didn't use AI to write this sadly.
+
+I can't link out to some of the resources, but tried to describe them for easy search and find.
+
+**TLDR:** Meeting 2025 revenue projections isn't at excessive risk based on CapEx raises so far. It's likely that production capacity may really be the limiting reagent for 2025 revenues not demand. Market is forward looking and there is uncertainity on 2026+ revenues (DeepSeek is one of them) - markets don't like that. However, uncertainity is an opportunity if Nvidia can deliver again - remember stocks climb a wall of worry.
+
+**Disclosure:** Own a lot of NVDA. But have covered calls on them, so not a blindfold risktaker.
+
+**Personal take:** NVDA is attractive at these levels, but I'd be cautious holding my entire position after the summer 2025 earnings calls from the hyperscalers, because if there's any indication there is a 2026 CapEx slowdown, stock could fall a lot. I can't predict the future, so diversification is important even if you like the stock.
+
+However, continued chip innovation that maintains a competitive advantage that leads to higher end customer ROIs compared to other chip alternatives would help. Also, release of one tangible AI product would change the sentiment and game here (e.g. Robotaxis, enterprise solutions used common place for F500 companies, etc). Many are already underway - my company is releasing Gemini for all employees - this goes beyond software engineers. I think diversification across the industry (AVGO, TSM, power producers) could be valuable as time progresses as the AI use case boom happens.
+
+\-----------------------------------------
+
+**(1) Meeting 2025 Revenue projections isn't at excessive risk based on CapEx raises so far**
+
+Based on [stockanalysis](https://stockanalysis.com/stocks/nvda/forecast/) consensus 2024 to 2025 revenue growth is estimated to be 52%.
+
+1. MSFT: 55.7B in 2024 to 80B in 2025
+2. Google: 52.5B in 2024 to 75B in 2025
+3. Meta: 39B in 2024 to 60B - 60B in 2025
+
+Based on the numbers written above, the anticipated growth from hyperscaler capex spend is 46% (if we assume concentration of NVDA chip spend as percent of capex steady). Hyperscalers are estimated to be about 50% of Nvidia revenue. To reach the 52% target that means from the remainder of the revenue book, Nvidia needs 58% spend increase.
+
+This doesn't seem unreasonable. **Potential** investments through StarGate (Oracle), OpenAI's increasingly independent spending funded by Softbank, and sovereign AI investments are a tailwind to that figure. However, sustained export controls (e.g. Biden's global export framework) and increased crackdowns are headwinds.
+
+**(2) It's likely that production capacity may really be the limiting reagent for 2025 revenues not demand**
+
+Based on multiple [sources](https://www.tomshardware.com/pc-components/gpus/nvidias-blackwell-gpus-are-sold-out-for-the-next-12-months-chipmaker-to-gain-market-share-in-2025?utm_source=chatgpt.com), seems like Blackweel is sold out for the next 12 months anyways. So 2025 revenues may be a matter of strong production. Moreover, from the commentary that google had on their earnings call - seems like cloud growth is supply constrained by infrastructure rather than demand constrained. I believe for 2025 at least customers will buy as many NVIDIA chips as they can and its production that determines valuation.
+
+Since the market is forward looking, 2025 revenue misses won't be as crucial as addressing the question of when is the demand going to slow down and the AI semiconductor sales from NVDA slowdown?
+
+**(3) Market is forward looking and there is uncertainity on 2026+ revenues (DeepSeek is one of them)..markets don't like that**
+
+No matter how you slice it, DeepSeek has provided true software driven advances that more efficiently use Nvidia GPUs and non-NVDA GPUs on the training and particularly inference level. You can look at the cost per inference token for DeepSeek vs. OpenAI. It has raised questions on the sustainability on needing cutting edge chips at high margins in the long run. Risks below.
+
+* **Do closed loop models even have a moat over open source?**: Can closed-loop/proprietary LLMs develop models that demand a strong ROI justifying investment in more chips to **train** better models that **end users are willing to pay for**? Currently Sam Altman & Dario (Antropic) think compute is the way to go. However, at some point they could discover more compute for training =/= better or more efficient models.
+* **Training:** Efficiencies in hardware utilization may reduce Nvidia's moat in interconnectivity and lead to better training advances, which could reduce margins if other chips are ""somewhat as good"" eventually given demand equalizes to supply. See point # 1 in this excellent recap here  (available by searching DeepSeek and the ramification on the AI industry: winners and losers? by Rihard Jarc)
+* **More use cases in a post training world could mean more inference on custom chips & competitor products:** It is widely believed that Nvidia is more of an undisputed leader in training performance vs. inference. If open source models become good enough and training investments do not result in monetizable ROI, Nvidia's margins likely fall as custom chips and other semiconductor players provide good solutions. [Jevon's Paradox (more use cases and usage)](https://www.npr.org/sections/planet-money/2025/02/04/g-s1-46018/ai-deepseek-economics-jevons-paradox) is very likely here, but volume would have to increase signficantly to offset margin decreases - a risk that the market doesn't like.
+* **CUDA alternatives leads to market share loses?:** CUDA is widely known to be the best option ""coding"" platform to get GPUs to do what you want right now. [However, there are other applications coming out that allow fungible usage of other chips. ](https://www.theregister.com/2024/12/17/nvidia_cuda_moat/#:~:text=If%20you're%20doing%20low,AMD%20hardware%20%E2%80%93%20and%20vice%20versa)This reduces the need to use Nvidia chips and pay such high margins. There's drawbacks to not using CUDA that I'll highlight in section 4.
+
+Sidenote - there is an honest and excellent podcast on DeepSeek implications to Nvidia from Bankless w/ Jeffrey Emmanuel (whose blogpost got a lot of investors interested in DeepSeek impact over 2 weekends ago). Please listen.
+
+**(4) However, uncertainity is an opportunity if Nvidia can deliver again - remember stocks climb a wall of worry.**
+
+* **Early innings of the AI story:** Models are going to get more complex not stagnate. This requires more training compute as we try to reach AGI level models. On the inference front, as more use cases explode, there will be more general chip demand. We haven't even seen full released use cases in robotics, autonomous transit, healthcare AI, etc.
+* **CUDA is the lowest latency** and provides best performance as of now. There might be a technical limit to how well alternatives perform.
+* **Cost of being last** in AI is too great for hyperscalers
+* **Continued innovation leadership:** Nvidia has expedited it's semiconductor cycle from 2 years to 1 year. Rubin (next gen AI chips) are already being worked on. Semiconductors are known to be cylical, but this may dull any trough cycle.
+* **Increased soverign AI investments** (StarGate, Middle east, etc.)
+* **Ridiculous cash flow with minimal R&D** as % of revenue means that Nvidia can invest in strategic ventures, emerging tech, and adjacent spaces to diversify revenue streams. Not sure this is proven out in the financials yet, but could in the future.
+* **Hopefully - reduced interest rates boosts stock valuations**.
+
+I've included a screenshot of interviews by Rihard Jarc with a former AMD employee on CUDA and training needs going forward after DeepSeek.",2025-02-05 18:54:07,63,34,stocks
+Big tech CapEx: 2024 vs. 2025 and increase in AI server demand,https://www.reddit.com/r/stocks/comments/1ihzo1s/big_tech_capex_2024_vs_2025_and_increase_in_ai/,"
+AI infrastructure spending is accelerating faster than expected, with Microsoft, Google, and Meta massively increasing their CapEx in 2025 to keep up with AI demand.
+
+CapEx Comparison: 2024 vs. 2025:
+
+- MSFT: 55.7B in 2024 to 80B in 2025
+- Google: 52.5B in 2024 to 75B in 2025
+- Meta: 39B in 2024 to 60B in 2025
+
+AI servers remain bottlenecked. Microsoft & Google can’t build AI data centers fast enough. That's why they couldn't beat expectations in cloud sales this quarter.
+
+CapEx is being funneled into GPUs, networking, and AI-specific chips. This should make NVIDIA the biggest winner of this trend.
+
+Also, OpenAI just introduced a new ""Deep Research"" AI model, designed for long-context reasoning. This will require even more compute power, further straining existing AI infrastructure. More power demand = more GPUs, networking gear, and data centers.
+
+As long as AI models grow in complexity and scale, NVIDIA and AI infrastructure players should benefit. 
+
+Even if Deepseek story was accurate, optimized model like Deepseek's will drive more demand, which will need even more powerful servers.
+
+All the cases for yet another great year for chip makers especially NVIDIA, don't you think?",2025-02-05 02:29:16,41,14,stocks
+"AMD reports profit beat, but misses on data center revenue",https://www.reddit.com/r/stocks/comments/1ihveoc/amd_reports_profit_beat_but_misses_on_data_center/,"Advanced Micro Devices reported fourth-quarter results on Tuesday that beat Wall Street expectations for sales and earnings, but the stock fell about 6% in extended trading as the company missed estimates in its key data center segment.
+
+Here’s how the chipmaker did, versus LSEG consensus estimates for the quarter ended Dec. 28:
+
+Earnings per share: $1.09, adjusted, versus $1.08 expected
+
+Revenue: $7.66 billion versus $7.53 billion
+
+AMD said it expects $7.1 billion in sales in the first quarter, plus or minus $300 million. It projected its gross margin to be about 54%. Analysts expected AMD to guide for revenue of $7 billion.
+
+AMD reported $482 million in net income, or 29 cents per share, for the fourth quarter, down from $667 million, or 41 cents per share in the year-ago period.The company’s adjusted earnings per share excluded items such as acquisition costs, inventory loss at contract manufacturers, and restructuring charges.
+
+Su told investors on an earnings call that AMD believes it will report “strong double-digit percentage revenue and EPS growth” in 2025.
+
+The company’s most important unit is its business selling chips for data centers, which has been growing in recent quarters, thanks to demand for its graphics processing units for artificial intelligence.
+
+AMD reported $3.86 billion in data center sales, which was up 69% on a year-over-year basis. The company said the increase was due to sales both in its Instinct GPUs and its EPYC CPUs, which compete with Intel’s processors.
+
+However, analysts polled by FactSet were predicting $4.14 billion in data center sales during the quarter.
+
+For the full year, AMD’s data center division revenue increased 94% to $12.6 billion. AMD said that $5 billion of those sales were from its Instinct GPUs for AI.
+
+While AMD is far behind market leader Nvidia, it’s released competitive data center GPUs in recent years such as the MI300X, that some big infrastructure buyers, including Meta and Amazon, have embraced.
+
+“We believe this places AMD on a steep long-term growth trajectory, led by the rapid scaling of our data center AI franchise from more than $5 billion of revenue in 2024 to tens of billions of dollars of annual revenue over the coming years,” Su said on the earnings call with analysts.
+
+AMD categorizes its chips for PCs, laptops, and other individual computers as client revenue, which increased 58% on an annual basis to $2.3 billion. AMD said both its chips for desktops as well as mobile computers such as laptops are seeing strong demand.
+
+AMD is also the second-largest producer of GPUs for gaming, behind Nvidia. Revenue in the segment declined 59% to $563 million. The company’s other small division, embedded chips, reported $923 million in sales, down 13% year-over-year.
+
+Source: https://www.cnbc.com/2025/02/04/amd-earnings-report-q4-2024.html",2025-02-04 23:07:55,530,213,stocks
+These are the stocks on my watchlist (02/4),https://www.reddit.com/r/stocks/comments/1ihiqni/these_are_the_stocks_on_my_watchlist_024/,"This is a daily watchlist for short-term trading: I might trade all/none of the stocks listed, and even stocks not listed!
+
+I am targeting potentially good candidates for short-term trading; I have no opinion on them as investments.
+
+The potential of the stock moving today is what makes it interesting, everything else is secondary.
+
+Yesterday was eventful, to say the least. Tariffs on Mexico/Canada are delayed, but we still have tariffs on China, and tariffs have been promised by Trump on the EU.
+
+News: [As Trump Tariffs Take Effect, China Retaliates With Trade Measures Against U.S.](https://www.nytimes.com/live/2025/02/04/us/trump-tariffs-news?unlocked_article_code=1.uU4.ps2-.DRzgfM1GnN9i)
+
+**Ticker:** [**PLTR (Palantir Technologies Inc)**](https://finviz.com/quote.ashx?t=PLTR&p=d)
+
+**Catalyst:** Reported earnings of $0.14 vs. $0.11 expected. Revenue of $828 million vs. $777 million expected. Management highlighted the power of AI and their sizable contracts, citing the nature of the AI war being winner-take-all.
+
+**Technicals:** PLTR absolutely exploded and hit $102 premarket, currently watching $100 level to see if we continue the move. Other than that unlikely to be trading this unless we have massive volume come in.
+
+**Catalyst/Sector Context:** The PLTR ER highlighted the growing demand for AI-driven solutions across government/commercial sectors. Company emphasized securing substantial contracts in the competitive AI landscape, important because they are more closely aligned with the current government.
+
+**Risks:** Obviously being more closely tied to the government means that it has more leeway to be more monopolistic/aggresive in their actions, Alex Karp and Peter Thiel are closely aligned with current government leaders.
+
+**Related Tickers:** MSFT, GOOGL, IBM, AMZN
+
+**Ticker:** [**NVDA (NVIDIA Corporation)**](https://finviz.com/quote.ashx?t=NVDA&p=d)
+
+**Catalyst:** Chinese AI company DeepSeek is reportedly preparing to switch to domestic GPUs to circumvent NVDA chip restrictions. DeepSeek has bypassed NVDA CUDA for certain operations, utilizing the PTX (Parallel Thread Execution) language instead. Additionally, on February 2nd, DeepSeek, in collaboration with SiliconFlow and Huawei Cloud, launched DeepSeek-R1/V3 inference services on Huawei's Ascend AI chips. Huawei is also promoting its new Ascend AI processors to Chinese groups considering ""inference"" as an option.
+
+**Technicals:** After the insane move we've seen from $150 to $118, I actually don't consider this to be earth shattering news- China has always been trying to develop their own semis and not using NVDA for training is what they were ""supposed"" to be doing due to the trade restrictions. I'm still long but selling calls against my position, recovery might be slow for NVDA. It's interesting that they are attempting to bypass CUDA, which is essentially the ""standard"" for ML/AI training nowadays on NVDA chips and developing their own.
+
+**Catalyst/Sector Context:** DeepSeek's move to adopt domestic GPUs and bypass CUDA indicates they're aiming for technological self-reliance amidst U.S. export restrictions, rather than trying to adopt more NVDA chips (which presumably isn't a viable long term strategy).
+
+**Risks:** Nvidia faces potential revenue loss if Chinese companies increasingly adopt domestic GPUs and alternative programming frameworks. The effectiveness of U.S. export controls may be undermined as Chinese firms develop workarounds.
+
+**Related Tickers:** AMD, INTC, QCOM, TSM
+
+**Ticker:** [**BABA**](https://finviz.com/quote.ashx?t=BABA&p=d)**/(oil stocks, car stocks, etc).**
+
+**Catalyst:** U.S. implemented a 10% tariff on all Chinese imports, aiming to address issues related to drug trafficking, particularly fentanyl. In response, China announced retaliatory tariffs effective February 10, including a 15% tariff on U.S. coal and liquefied natural gas, and a 10% tariff on crude oil, agricultural machinery, and large-engine vehicles.
+
+**Catalyst/Sector Context:** The imposition of these tariffs marks a significant escalation in U.S.-China trade tension and more volatility to come through Trump tweets- we might see a trade war again (sigh) like we did in 2019. Not 100% sure if agricultural machinery will affect stocks like DE but will look into it.
+
+**Related Tickers:** JD, BIDU, TCEHY, PDD
+
+**Offhand Comments:** There are going to be retaliation investigations against companies operating in America, INTC and GOOG have recently been announced as under investigation by China. But it's very important to remember which companies have a presence in China and which don't- for example, GOOG search hasn't worked in China since 2010 lol.
+
+**Ticker:** [**GRAB (Grab Holdings Limited)**](https://finviz.com/quote.ashx?t=GRAB&p=d)
+
+**Catalyst:** Grab Holdings Ltd. is considering a takeover of its Indonesian rival, GoTo Group, at a valuation of approximately $7 billion.
+
+**Technicals:** Watching $5 level, no bias. I'm not 100% sure if there's an actual ""acquisition"" share price for GoTo but will keep eyes peeled for that acquisition premium.
+
+**Catalyst/Sector Context:** The potential merger represents a significant consolidation in SEA's ride-hailing and food delivery sectors. Mergers typically streamline operations and reduce competition, leading to improved profitability for the combined entity.
+
+**Risks:** The proposed merger may face regulatory hurdles, including antitrust concerns, which could delay or derail the deal. Standard M&A obstacles.
+
+**Related Tickers:** UBER, LYFT
+
+**Earnings today:** [**AMD**](https://finviz.com/quote.ashx?t=AMD&p=d), [**GOOG**](https://finviz.com/quote.ashx?t=GOOG&p=d), [**MAT**](https://finviz.com/quote.ashx?t=MAT&p=d), [**SNAP**](https://finviz.com/quote.ashx?t=SNAP&p=d)",2025-02-04 14:22:15,45,17,stocks
+Do you think it's time to sell NVDA?,https://www.reddit.com/r/stocks/comments/1if2ukg/do_you_think_its_time_to_sell_nvda/,"The introduction of Deepseek probably doesn't warrant the sharp stock decline value of NVDA, that is understandable. But so is their stock value rise for the past 2 years. To put it in other words, yes the decline was a result of a hype, but so was the rise. Something that didn't make much sense got replaced by another thing that doesn't make much sense. At the end of the day, Nvidia is a great company that sells the best computer chips and GPU's, but that's all there is to it. I just don't see how they can rise again for the foreseeable future. They've hit a peak point in my opinion. And while Deepseek's introduction shouldn't have been the reason for their stock decline vlue, it was just a trigger for something that was in my opinion inevitable. 
+
+I was pressured by family members into buying NVDA, and now the total loss is about 13.5% of its original price. I feel like I should just close the position as I just don't see how it can rise again for me to recoup the losses, but I also don't want to do something based on feelings. I hope someone in this subreddit can help. I try to do some due diligence and understand metrics, but I'm no expert and I'm finding it difficult to put the time into learning these things with my very demanding fulltime job, which is why I usually stick with  low risky ETF's, except for Nvidia which I was kinda pressured into buying, and I was worried that it might become even more profitable and then hearing ""I told you so!"".",2025-02-01 09:33:36,0,63,stocks
+Trump on meeting Jensen: We're eventually going to put tariffs on chips .... and things associated with chips,https://www.reddit.com/r/stocks/comments/1ieuzxg/trump_on_meeting_jensen_were_eventually_going_to/,"I can't link directly to Youtube but search for this video at 6:05 mark:
+
+> BREAKING NEWS: Trump Signs New Executive Orders While Taking Questions From Reporters In Oval Office (Source: Forbes Breaking news)
+
+There's no mention of any specifics regarding additional export controls. On the other hand there's also no additional information about possibly US government buying a lot more chips from Nvidia.
+
+>Trump did not provide details of the meeting but called Huang a ""gentleman."" ""I can't say what's gonna happen. We had a meeting. It was a good meeting,"" Trump said. ([Reuters](https://www.reuters.com/technology/trump-meet-with-nvidia-ceo-friday-white-house-official-says-2025-01-31/))
+
+When asked about how the meeting went Trump just mentioned he's going to put tariffs on chips and then started talking about tariffs on oil, gas, steel, and pharmaceuticals. Then he circled back to chips and mentioned he will tariff chips and ""things associated with chips"".
+
+Some questions for discussion:
+
+* Is this result from the meeting good or bad?
+* Should this in any way move the market on Nvidia? How about Intel, AMD, or other equipment makers?
+* Is it concerning that Trump didn't mention anything about Stargate?",2025-02-01 01:22:41,1408,416,stocks
+Just getting advice from you all on my investing,https://www.reddit.com/r/investing/comments/1iicthd/just_getting_advice_from_you_all_on_my_investing/,"Hello! I'm pretty green with investing by myself(i have fidelity doing my 401k and roth) and went to RH to see if I can do it myself.... want to get your thoughts if these are good or suggestion or and, if I need some changes:
+
+My stock:
+
+Nvidia
+
+Etf, etc:
+
+VTI, ARKQ, MAIN, SCHD, QQQM
+
+80% etf 20% stocks looking for growth in mid 40s
+
+Thanks in advanced.
+
+",2025-02-05 15:39:42,1,6,investing
+Can we trust chatgpt to calculate stock values?,https://www.reddit.com/r/investing/comments/1ihql0s/can_we_trust_chatgpt_to_calculate_stock_values/,"It's telling me Palantir is worth $3.76 per share right now. It also said that Nvidia is worth $1436.50 per share. Here's what it said for Palantir:
+
+To estimate the intrinsic value of Palantir Technologies Inc. (PLTR) stock, we'll use the Discounted Cash Flow (DCF) model. This approach involves projecting the company's future free cash flows (FCF) and discounting them to their present value using the Weighted Average Cost of Capital (WACC). Here's a step-by-step breakdown:
+
+1. Gather Key Financial Data:
+
+Free Cash Flow (FCF): For the trailing twelve months (TTM) ending September 30, 2024, Palantir reported a free cash flow of $980.32 million. 
+
+Shares Outstanding: As of September 30, 2024, the company had approximately 2.27 billion shares outstanding. 
+
+WACC: Palantir's WACC is estimated at 16.76%. 
+
+
+2. Project Future Free Cash Flows:
+
+We'll assume a conservative annual growth rate for FCF over the next five years. Given the company's recent performance and market conditions, a 10% annual growth rate is reasonable.
+
+Year 1 FCF: $980.32 million × 1.10 = $1,078.35 million
+
+Year 2 FCF: $1,078.35 million × 1.10 = $1,186.19 million
+
+Year 3 FCF: $1,186.19 million × 1.10 = $1,304.81 million
+
+Year 4 FCF: $1,304.81 million × 1.10 = $1,435.29 million
+
+Year 5 FCF: $1,435.29 million × 1.10 = $1,578.82 million
+
+
+3. Calculate the Terminal Value:
+
+The terminal value represents the present value of all future free cash flows beyond Year 5, assuming a perpetual growth rate. We'll use a 3% perpetual growth rate and the Year 5 FCF.
+
+Terminal Value (TV) at Year 5: $1,578.82 million × (1 + 0.03) / (0.1676 - 0.03) = $1,578.82 million × 1.03 / 0.1376 ≈ $11,741.68 million
+
+
+4. Discount Future Cash Flows and Terminal Value to Present Value:
+
+Using the WACC of 16.76%, we'll discount each year's FCF and the terminal value back to the present.
+
+Discount Factor for Year 1: 1 / (1 + 0.1676)^1 ≈ 0.855
+
+Discount Factor for Year 2: 1 / (1 + 0.1676)^2 ≈ 0.734
+
+Discount Factor for Year 3: 1 / (1 + 0.1676)^3 ≈ 0.629
+
+Discount Factor for Year 4: 1 / (1 + 0.1676)^4 ≈ 0.539
+
+Discount Factor for Year 5: 1 / (1 + 0.1676)^5 ≈ 0.462
+
+Discount Factor for Terminal Value: 1 / (1 + 0.1676)^5 ≈ 0.462
+
+
+Now, calculate the present value (PV) of each cash flow and the terminal value:
+
+PV of Year 1 FCF: $1,078.35 million × 0.855 ≈ $921.76 million
+
+PV of Year 2 FCF: $1,186.19 million × 0.734 ≈ $870.77 million
+
+PV of Year 3 FCF: $1,304.81 million × 0.629 ≈ $820.77 million
+
+PV of Year 4 FCF: $1,435.29 million × 0.539 ≈ $773.77 million
+
+PV of Year 5 FCF: $1,578.82 million × 0.462 ≈ $729.77 million
+
+PV of Terminal Value: $11,741.68 million × 0.462 ≈ $5,419.68 million
+
+
+5. Calculate the Total Present Value:
+
+Sum the present values of the FCFs and the terminal value:
+
+Total PV: $921.76 million + $870.77 million + $820.77 million + $773.77 million + $729.77 million + $5,419.68 million ≈ $8,536.52 million
+
+
+6. Determine the Intrinsic Value per Share:
+
+Divide the total present value by the number of shares outstanding:
+
+Intrinsic Value per Share: $8,536.52 million / 2.27 billion ≈ $3.76
+
+
+Conclusion:
+
+Based on this DCF analysis, the estimated intrinsic value of Palantir's stock is approximately $3.76 per share. This suggests that the current market price of $102.59 per share is significantly higher than the calculated intrinsic value, indicating that the stock may be overvalued based on this model.
+
+Please note that this is a simplified analysis. In reality, intrinsic value calculations involve more complex models and assumptions, including sensitivity analyses to account for uncertainties in growth rates, discount rates, and other factors. It's advisable to consult with financial advisors or conduct a more detailed analysis before making investment decisions.
+
+",2025-02-04 19:48:24,0,38,investing
+"I have $1,000 what should I invest in?",https://www.reddit.com/r/investing/comments/1ign9no/i_have_1000_what_should_i_invest_in/,"I currently have $1400 invested. A bit in index and a bit split into individual company shares (and partial shares) and have been looking at doubling down this month anyway so this dip is perfectly timed
+
+
+As of writing this it’s the morning of Feb 3rd and the market has not opened yet. It looks like the market is about to dip hard. I have $1,000 in liquid cash. If I were to put it into the market today or tomorrow what would you suggest I buy? 
+Standard index? If so which one 
+Individual company? If so which ones?
+
+For individual stock I am looking at CRM (salesforce), nvidia, apple, rigetti computing.
+",2025-02-03 11:46:59,0,12,investing
+NVDA: DeepSeek’s Disruption and the Changing Tech Landscape,https://www.reddit.com/r/investing/comments/1igef02/nvda_deepseeks_disruption_and_the_changing_tech/,"* Nvidia’s AI Market Dominance – Nvidia’s H100 and H800 GPUs are essential for AI workloads, powering models like ChatGPT and DeepSeek, with major tech firms like Google, Microsoft, and Amazon relying on its chips.
+* DeepSeek’s Disruptive Impact – DeepSeek’s AI model V3, trained on Nvidia’s H800 chips at a fraction of the usual cost, raises questions about the necessity of high-cost AI hardware, pressuring Nvidia’s pricing power.
+* Financial and Competitive Pressures – Nvidia depends heavily on a few major tech companies, faces emerging competition from AMD, Broadcom, and DeepSeek, and has a valuation significantly above industry norms, making it vulnerable to market corrections.
+* Nvidia’s AI Market Dominance – Nvidia’s H100 and H800 GPUs are essential for AI workloads, powering models like ChatGPT and DeepSeek, with major tech firms like Google, Microsoft, and Amazon relying on its chips.
+* DeepSeek’s Disruptive Impact – DeepSeek’s AI model V3, trained on Nvidia’s H800 chips at a fraction of the usual cost, raises questions about the necessity of high-cost AI hardware, pressuring Nvidia’s pricing power.
+
+Nvidia has established itself as a dominant force in the AI hardware industry, with its H100 and H800 chips powering some of the most advanced AI models, including ChatGPT and DeepSeek. The H100’s architecture enables AI models to train at unprecedented speeds, while the H800 variant meets regulatory requirements in markets like China. The evolution from the A100 to the H100 has significantly accelerated AI capabilities, with GPT-3 models learning four times faster than before. Nvidia’s market strength is reinforced by deep integration with tech giants like Google, Amazon, and Microsoft, ensuring continued demand for its products. As AI models become more sophisticated and data-intensive, Nvidia’s GPUs remain central to pushing the limits of what AI can achieve.
+
+DeepSeek’s AI model V3 has disrupted the industry by achieving high-performance AI training on Nvidia’s H800 chips at significantly lower costs. Traditionally, training advanced AI models has required billions in investment, but DeepSeek’s approach challenges this assumption, demonstrating that high-level AI training can be done with minimal resources. This efficiency could lead major tech firms to question Nvidia’s high pricing, pressuring the company’s ability to maintain its premium margins. If DeepSeek’s success encourages more companies to seek cost-effective alternatives, Nvidia may need to justify its premium pricing or risk losing market share.
+
+Despite its strong position, Nvidia’s financial foundation has key vulnerabilities. Nearly half of its data center revenue comes from a handful of major tech firms, including Microsoft and Meta—companies that are now investing in developing their own AI chips to reduce dependency on Nvidia. While Nvidia’s dominance in both software and hardware makes it difficult to replace, emerging competitors like AMD and DeepSeek are introducing cost-effective alternatives. DeepSeek, for example, trained its model with only $5 million, a fraction of the billions typically required for Nvidia-powered training. With a P/E ratio three times the industry average, Nvidia’s valuation remains highly sensitive to changes in AI spending and broader market trends. A slowdown in AI-related investments or increased competition could significantly impact Nvidia’s stock price.
+
+For years, Nvidia was synonymous with AI growth, with investors believing that any advancement in AI would translate directly into gains for Nvidia. However, this perception is shifting. The emergence of cost-effective AI models and alternative chip suppliers, including DeepSeek, AMD, Google, and Amazon, challenges Nvidia’s “There Is No Alternative” (TINA) status. Concerns about pricing, licensing restrictions, and geopolitical factors, including U.S. government restrictions on chip exports, further complicate Nvidia’s outlook. Investors are increasingly questioning whether Nvidia can sustain its premium pricing in a market where competition is growing, leading to potential valuation recalibration.
+
+The AI industry is undergoing rapid transformation, with cost-efficiency becoming a critical factor in decision-making. Nvidia’s high-end GPUs have long been the gold standard, but rising costs are prompting companies to explore alternatives. AMD’s MI300 series, for example, offers competitive AI processing power at lower costs, making it an attractive alternative for firms looking to diversify suppliers. Broadcom is also gaining traction in AI networking, while DeepSeek’s focus on affordable AI chips threatens Nvidia’s dominance. As these competitors gain market share, Nvidia’s ability to maintain its pricing power and market stronghold may diminish, forcing it to adapt to a changing landscape.
+
+DeepSeek’s advancements have ripple effects across the AI supply chain. If AI training costs continue to drop, tech giants may slow down their AI-related capital expenditures, impacting Nvidia’s growth trajectory. Furthermore, the shift toward more cost-efficient AI solutions could reduce demand for Nvidia’s high-end chips, altering market priorities from premium performance to affordability. This evolving landscape presents both risks and opportunities for Nvidia. While it may face increased competition, Nvidia’s leadership in AI infrastructure and software solutions still gives it a competitive edge. However, it must adapt to changing market demands to sustain long-term growth.
+
+Nvidia’s market dominance is being challenged as the AI industry evolves. The rise of DeepSeek, along with increased competition from AMD, Broadcom, and major tech firms developing in-house chips, raises concerns about Nvidia’s pricing power and long-term growth. Recent market shifts have already led to a $600 billion drop in Nvidia’s market value, the largest single-day loss in U.S. stock history.
+
+If the AI market prioritizes efficiency over expansion, Nvidia could see reduced demand for its high-end GPUs. However, its history of innovation, strong AI infrastructure, and ongoing R&D investments position it well to adapt. While some analysts view recent market dips as a buying opportunity, the competitive pressures and changing industry dynamics mean Nvidia must continue evolving to maintain its leadership in AI hardware.
+
+# TL;DR: Nvidia remains a dominant force in AI hardware, but emerging competitors like DeepSeek, AMD, and Broadcom are challenging its pricing power and market dominance. DeepSeek’s AI model demonstrates that high-performance AI training can be achieved at significantly lower costs, potentially reshaping the AI ecosystem. Nvidia’s dependence on a few tech giants and its high valuation make it vulnerable to market shifts, while increasing competition suggests that its long-term growth may face headwinds. However, Nvidia’s innovation and market leadership still offer strong potential, provided it adapts to the evolving AI landscape.
+
+  
+Shifting Market Perception – The narrative is changing from “AI success = Nvidia success” to a more fragmented AI ecosystem where efficiency, affordability, and alternative suppliers are gaining traction.
+
+* Financial and Competitive Pressures – Nvidia depends heavily on a few major tech companies, faces emerging competition from AMD, Broadcom, and DeepSeek, and has a valuation significantly above industry norms, making it vulnerable to market corrections.
+* Shifting Market Perception – The narrative is changing from “AI success = Nvidia success” to a more fragmented AI ecosystem where efficiency, affordability, and alternative suppliers are gaining traction.
+
+Nvidia has established itself as a dominant force in the AI hardware industry, with its H100 and H800 chips powering some of the most advanced AI models, including ChatGPT and DeepSeek. The H100’s architecture enables AI models to train at unprecedented speeds, while the H800 variant meets regulatory requirements in markets like China. The evolution from the A100 to the H100 has significantly accelerated AI capabilities, with GPT-3 models learning four times faster than before. Nvidia’s market strength is reinforced by deep integration with tech giants like Google, Amazon, and Microsoft, ensuring continued demand for its products. As AI models become more sophisticated and data-intensive, Nvidia’s GPUs remain central to pushing the limits of what AI can achieve.
+
+DeepSeek’s AI model V3 has disrupted the industry by achieving high-performance AI training on Nvidia’s H800 chips at significantly lower costs. Traditionally, training advanced AI models has required billions in investment, but DeepSeek’s approach challenges this assumption, demonstrating that high-level AI training can be done with minimal resources. This efficiency could lead major tech firms to question Nvidia’s high pricing, pressuring the company’s ability to maintain its premium margins. If DeepSeek’s success encourages more companies to seek cost-effective alternatives, Nvidia may need to justify its premium pricing or risk losing market share.
+
+Despite its strong position, Nvidia’s financial foundation has key vulnerabilities. Nearly half of its data center revenue comes from a handful of major tech firms, including Microsoft and Meta—companies that are now investing in developing their own AI chips to reduce dependency on Nvidia. While Nvidia’s dominance in both software and hardware makes it difficult to replace, emerging competitors like AMD and DeepSeek are introducing cost-effective alternatives. DeepSeek, for example, trained its model with only $5 million, a fraction of the billions typically required for Nvidia-powered training. With a P/E ratio three times the industry average, Nvidia’s valuation remains highly sensitive to changes in AI spending and broader market trends. A slowdown in AI-related investments or increased competition could significantly impact Nvidia’s stock price.
+
+For years, Nvidia was synonymous with AI growth, with investors believing that any advancement in AI would translate directly into gains for Nvidia. However, this perception is shifting. The emergence of cost-effective AI models and alternative chip suppliers, including DeepSeek, AMD, Google, and Amazon, challenges Nvidia’s “There Is No Alternative” (TINA) status. Concerns about pricing, licensing restrictions, and geopolitical factors, including U.S. government restrictions on chip exports, further complicate Nvidia’s outlook. Investors are increasingly questioning whether Nvidia can sustain its premium pricing in a market where competition is growing, leading to potential valuation recalibration.
+
+The AI industry is undergoing rapid transformation, with cost-efficiency becoming a critical factor in decision-making. Nvidia’s high-end GPUs have long been the gold standard, but rising costs are prompting companies to explore alternatives. AMD’s MI300 series, for example, offers competitive AI processing power at lower costs, making it an attractive alternative for firms looking to diversify suppliers. Broadcom is also gaining traction in AI networking, while DeepSeek’s focus on affordable AI chips threatens Nvidia’s dominance. As these competitors gain market share, Nvidia’s ability to maintain its pricing power and market stronghold may diminish, forcing it to adapt to a changing landscape.
+
+DeepSeek’s advancements have ripple effects across the AI supply chain. If AI training costs continue to drop, tech giants may slow down their AI-related capital expenditures, impacting Nvidia’s growth trajectory. Furthermore, the shift toward more cost-efficient AI solutions could reduce demand for Nvidia’s high-end chips, altering market priorities from premium performance to affordability. This evolving landscape presents both risks and opportunities for Nvidia. While it may face increased competition, Nvidia’s leadership in AI infrastructure and software solutions still gives it a competitive edge. However, it must adapt to changing market demands to sustain long-term growth.
+
+Nvidia’s market dominance is being challenged as the AI industry evolves. The rise of DeepSeek, along with increased competition from AMD, Broadcom, and major tech firms developing in-house chips, raises concerns about Nvidia’s pricing power and long-term growth. Recent market shifts have already led to a $600 billion drop in Nvidia’s market value, the largest single-day loss in U.S. stock history.
+
+If the AI market prioritizes efficiency over expansion, Nvidia could see reduced demand for its high-end GPUs. However, its history of innovation, strong AI infrastructure, and ongoing R&D investments position it well to adapt. While some analysts view recent market dips as a buying opportunity, the competitive pressures and changing industry dynamics mean Nvidia must continue evolving to maintain its leadership in AI hardware.
+
+# TL;DR: Nvidia remains a dominant force in AI hardware, but emerging competitors like DeepSeek, AMD, and Broadcom are challenging its pricing power and market dominance. DeepSeek’s AI model demonstrates that high-performance AI training can be achieved at significantly lower costs, potentially reshaping the AI ecosystem. Nvidia’s dependence on a few tech giants and its high valuation make it vulnerable to market shifts, while increasing competition suggests that its long-term growth may face headwinds. However, Nvidia’s innovation and market leadership still offer strong potential, provided it adapts to the evolving AI landscape.",2025-02-03 02:17:01,0,3,investing
+"Stock Market Today: MicroStrategy Drops the ‘Micro,’ + Earnings Galore From Qualcomm, Uber, Disney, Novo Nordisk & Arm Holdings",https://www.reddit.com/r/Daytrading/comments/1iirzgp/stock_market_today_microstrategy_drops_the_micro/,"* Markets bounced back Wednesday as investors turned their attention to earnings, shaking off earlier trade war fears. The Dow led with a 0.7% gain, while the S&P 500 rose 0.4% and the Nasdaq barely managed to stay in the green. Big Tech struggled after disappointing earnings, but a standout chipmaker (Nvidia) helped lift sentiment.
+* Despite the rebound, investors are still treading carefully with trade tensions looming. The focus remains on corporate performance, but any new tariff threats could easily rattle the market again.
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Mattel** surged 15.33% after crushing earnings estimates, reporting 35 cents per share on revenue of $1.65 billion, well above analyst forecasts. ($MAT)
+* **Johnson Controls International** jumped 11.28% after posting a strong quarter and issuing solid fiscal guidance. ($JCI)
+* **Super Micro Computer** climbed nearly 8% after announcing full production availability of its AI data center powered by Nvidia’s Blackwell platform. ($SMCI)
+* **Electronic Arts** rose more than 7.60% after reporting a strong earnings beat and announcing a $1 billion stock buyback. ($EA)
+* **Workday** climbed 6.33% after announcing a workforce reduction of 8.5%, boosting investor confidence. ($WDAY)
+* **Novo Nordisk** gained nearly 3.76% after beating fourth-quarter profit expectations, posting net profit of 28.23 billion Danish kroner versus the 26.09 billion projected. ($NVO)
+* **Toyota Motor** advanced 4.15% after announcing a new EV-focused company in China, despite third-quarter operating profit falling short of estimates. ($TM)
+* **Nvidia** popped over 5.21% alongside Super Micro Computer after news of the latter's AI data center powered by Nvidia’s platform. ($NVDA)
+
+# What’s down 📉
+
+* **FMC Corporation** plummeted 33.53% after issuing weak first-quarter guidance, projecting earnings of 5 to 15 cents per share versus analyst expectations of 77 cents. ($FMC)
+* **Alphabet** sank 7.29% after missing fourth-quarter revenue expectations and announcing plans to invest $75 billion in AI, more than the anticipated $58.84 billion. ($GOOGL)
+* **Uber** dropped 7.56% after missing earnings expectations and providing soft guidance for gross bookings in the first quarter. ($UBER)
+* **Advanced Micro Devices** tumbled 6.27% after reporting disappointing data center segment results, despite an overall earnings beat. ($AMD)
+* **Match Group** slid 7.92% after issuing weak first-quarter revenue guidance and announcing a new CEO. ($MTCH)
+* **PDD Holdings** pulled back over 3.43% following uncertainty surrounding the U.S. Postal Service’s temporary suspension of inbound packages from China and Hong Kong. ($PDD)
+* **Chipotle Mexican Grill** declined 2.56% despite an earnings beat, as its same-store sales growth forecast disappointed investors. ($CMG)
+
+# MicroStrategy Drops the ‘Micro,’ Doubles Down on Bitcoin
+
+  
+MicroStrategy is no more—meet *Strategy*. The company officially rebranded ahead of its Q4 earnings, shedding the “Micro” and leaning fully into its Bitcoin identity. CEO Phong Le called it a reflection of the company’s “strategic core,” but let’s not kid ourselves—Strategy isn’t just a software firm anymore. With 471,107 bitcoins now sitting on its balance sheet, worth about $46 billion, it’s more of a corporate crypto whale than anything else. And just in case the new name wasn’t enough of a signal, the company rolled out a fresh logo featuring a Bitcoin-inspired orange “B.” Subtle.
+
+**Big Bitcoin Buys, Bigger Debt Load**  
+  
+Strategy hasn’t just been HODLing—it’s been aggressively adding to its pile. Over the last quarter, the company scooped up 218,887 bitcoins for $20.5 billion, burning through debt and stock sales like an overleveraged crypto trader. That’s part of a larger plan to raise $42 billion in capital over three years, and so far, it’s already hit the halfway mark, well ahead of schedule. Investors are torn—some see it as a masterstroke in capital allocation, while others worry that tying a public company’s fate so closely to Bitcoin’s volatility is a ticking time bomb.
+
+**Earnings? Oh Right, Those Exist**  
+  
+While Bitcoin continues to dominate Strategy’s story, the company did technically report earnings. It posted a brutal $670.8 million loss, largely due to a $1 billion write-down on its crypto holdings, thanks to outdated accounting rules that don’t let companies mark digital assets up, only down. Revenue also dipped 3% year-over-year to $120.7 million, missing estimates. But starting this quarter, new accounting rules will let firms report Bitcoin at fair value, which could make Strategy’s books look a lot less painful going forward.
+
+**What’s Next?** The rebrand cements what everyone already knew—this company isn’t about software anymore. With its eyes locked on Bitcoin and an aggressive capital-raising strategy in full swing, Strategy is doubling down on its crypto-fueled vision.
+
+# 
+
+# Market Movements
+
+* ❌ **Nissan to Reject Honda Merger Terms**: Nissan is set to turn down Honda’s proposed merger, which would have made it a subsidiary rather than an equal partner in a holding company. Nissan shares tumbled 4.9% on the news, while Honda’s stock surged 8.2%. ($HMC)
+* 📉 **Temu Shifts to U.S. Warehouses After Tax Loophole Closure**: Temu is prioritizing products from U.S. warehouses in its app after President Trump revoked the de minimis trade exemption, which had allowed duty-free imports under $800. The move helps Temu speed up delivery while reducing its reliance on direct Chinese shipments. ($PDD)
+* 🏢 **Walmart Buys Pennsylvania Mall for $34M**: Walmart has acquired the Monroeville Mall in Pennsylvania in an all-cash deal worth $34 million. The retailer, working with Cypress Equities, is expected to redevelop the property for retail, entertainment, and housing purposes. ($WMT)🚗 **Ford Beats Q4 Estimates but Warns of a Tough Year Ahead**: Ford surpassed Wall Street’s expectations for Q4, reporting $10.2 billion in adjusted EBIT and $5.9 billion in net income. However, the company issued cautious 2025 guidance, citing market headwinds, cost reductions, and weaker demand in the first half of the year. ($F)🛑 **Google Ends Diversity Goals, Citing Federal Compliance**: Google is eliminating its diversity hiring and promotion targets, citing new federal contractor rules and recent executive orders. The decision follows similar moves by Meta, Amazon, and Walmart as corporate DEI policies face increased scrutiny. ($GOOGL)
+* 📉 **China's Apple Probe Weighs on Shares**: Apple shares fell 2.7% premarket following reports that Chinese regulators are considering an investigation into the company’s App Store fees and restrictions on third-party payments. The move could further strain Apple’s business in China, one of its largest markets. ($AAPL)
+* 🚀 **Boeing’s Starliner Program Faces More Losses**: Boeing has racked up over $2 billion in losses on its Starliner spacecraft project, with a $523 million charge in 2024 alone. Ongoing propulsion issues forced NASA to delay the crewed mission again, raising concerns about the viability of the program. ($BA)
+* 📺 **Fox Plans New Streaming Service**: Fox Corporation is preparing to launch a subscription-based streaming platform by year-end, focusing on sports and news content. The move comes after the company scrapped its joint sports streaming venture, Venu, to cut costs. ($FOXA)
+* ⚖️ **Samsung Chairman Acquitted in Fraud Case**: A Seoul appeals court cleared Samsung Electronics Chairman Jay Y. Lee of fraud and stock manipulation charges. While the ruling removes legal risks, Lee now faces mounting pressure as Samsung navigates fierce AI chip competition. ($SSLNF)
+
+# 
+
+# Earnings Galore From Qualcomm, Uber, Disney, Novo Nordisk & Arm Holdings
+
+**Qualcomm Drops 4% as Smartphone Market Outlook Disappoints**  
+Qualcomm fell 4.58% in extended trading after the chip giant’s Q1 earnings revealed a shaky outlook for smartphone demand. While the company posted a revenue beat—$11.7 billion versus the expected $10.9 billion—investors focused on its forecast of $10.3 billion to $11.2 billion for Q2, which was lower than some analysts had hoped. Qualcomm’s licensing revenue, a key indicator of phone sales, also came in below projections, fueling concerns that smartphone shipments will stagnate in 2025.
+
+**Uber Tumbles 7.56% on Weak Bookings Forecast**  
+Uber’s stock took a 7.56% hit after issuing a lackluster Q1 gross bookings forecast of $42 billion to $43.5 billion, falling short of prior estimates. The ride-hailing giant cited currency headwinds, legal expenses, and bad weather as key drags on its outlook. This overshadowed its otherwise strong Q4, where bookings grew 18% to $44.2 billion. Investors are now questioning whether Uber is simply setting a low bar to beat or if rising insurance costs and regulatory pressures will continue to weigh on its growth.
+
+**Disney Slips 2.44% Despite Beating Expectations**  
+Disney beat earnings estimates with EPS of $1.76, well ahead of the expected $1.42, and revenue rising 5% to $24.7 billion. Streaming was the bright spot, with Disney+ and Hulu generating $293 million in profit after price hikes. But investors fixated on a slight decline in Disney+ subscribers and warnings of another drop next quarter, dragging the stock down 2.44%. CEO Bob Iger assured investors that streaming margins would keep improving, but the market wasn’t fully convinced.
+
+**Novo Nordisk Jumps 3.76% as Ozempic Demand Surges**  
+Novo Nordisk surged 4.54% after forecasting 16%-24% revenue growth for 2025, fueled by skyrocketing demand for its blockbuster diabetes and weight-loss drugs, Ozempic and Wegovy. While the company expects some supply constraints to persist, it reassured investors that production will ramp up. The strong outlook helped calm fears about increasing competition from Eli Lilly, whose weight-loss drug Zepbound had triggered concerns about market share erosion.
+
+**Arm Holdings Sinks 6.82% on Muted AI Forecast**  
+Arm Holdings slid 6.82% after issuing a cautious revenue forecast of $1.18 billion to $1.28 billion for Q1, disappointing investors hoping for stronger AI-fueled growth. The outlook followed a weak report from AMD earlier this week, sparking fears that the AI boom may not be as explosive as expected. Despite beating Q4 estimates—revenue jumped 19% to $983 million—investors weren’t thrilled with the chip designer’s conservative stance on AI-driven demand.
+
+# On The Horizon
+
+# Tomorrow
+
+The labor market check-in continues tomorrow with the latest jobless claims report. Last week, new filings for unemployment benefits dropped to 207,000, beating forecasts of 220,000—another sign of a resilient job market. But ongoing claims, which track those still looking for work, have been creeping up, and economists are watching closely for any cracks in hiring trends.
+
+On the earnings front, it’s a packed day with updates from Eli Lilly ($LLY), Bristol-Myers Squibb ($BMY), AstraZeneca ($AZN), Kellanova ($K), Yum Brands ($YUM), Cloudflare ($NET), Roblox ($RBLX), Under Armour ($UA), Pinterest ($PINS), Affirm ($AFRM), Honeywell ($HON), Peloton ($PTON), Hershey ($HSY), Take-Two Interactive ($TTWO), and Skechers ($SKX).
+
+# Before Market Open:
+
+* **Roblox** has mastered the art of blending gaming and social media, making it a favorite among the middle school elite. The platform has nailed monetization while keeping safety a priority, fueling a stock surge over the past year. But with its valuation climbing, some investors may hesitate—though Wall Street sees plenty of room for growth if it continues dominating the digital playground. Consensus: -$0.45 EPS, $1.37 billion in revenue. ($RBLX)
+
+# After Market Close:
+
+* **Amazon** faces challenges from all angles—AI could shake up its cloud empire, and tariffs might dent its e-commerce machine. But size matters, and Amazon’s scale gives it a serious edge. With a booming ad business, top-tier margins, and industry-leading efficiency, it’s no surprise that nearly every analyst calls it a buy. Consensus: $1.49 EPS, $187.25 billion in revenue. ($AMZN)",2025-02-06 02:27:34,2,0,Daytrading
+Trading with profits every day. What's wrong with my strategy?,https://www.reddit.com/r/Daytrading/comments/1ii5mgn/trading_with_profits_every_day_whats_wrong_with/,"Hi everyone, 
+I'm new to day trading but I've been a long-term investor for a while already. 
+
+And this is my first post here :) 
+
+While I have the capital for larger trades, I'm currently dipping my toes into day trading with $1,000-$5,000 positions in stocks I'd normally invest in long-term (like Nvidia, Datadog, Spotify, and Cloudflare).  
+
+Over the past month, I've averaged a modest $5 profit per day 🚀
+I don't use stop-loss orders, as I only buy stocks I'm comfortable holding.  
+There have been days where I've seen losses of $100-$150, but I've held those positions for up to a week and they've eventually recovered with profit. 
+Worst, I would mind converting them to long term investment and hold for years. 
+
+My strategy seems to be working so far, and I'm considering increasing my trading volume to $20,000-$25,000. 
+
+However, I'm a bit uneasy with my game. It feels unreal to be making money in such a volatile and bearish market. 
+I have a gut feeling that I'm missing something important about my strategy but not sure what potential risks am I overlooking?
+
+Roast my strategy! 
+
+PS: I am an engineer with statistics background. I read and try to learn charts too but I honestly think my assumptions are just luck. 
+",2025-02-05 08:34:16,1,3,Daytrading
+"Stock Market Today: Palantir’s AI Reign Just Went Into Overdrive + Trump Hits Pause on Canada, Mexico Tariffs—For Now",https://www.reddit.com/r/Daytrading/comments/1ih3ned/stock_market_today_palantirs_ai_reign_just_went/,"* Wall Street took a sharp hit on Monday as fears of an escalating trade war rattled investors. Stocks tumbled at the open after President Trump announced sweeping tariffs on Canada, Mexico, and China. However, the market found a lifeline mid-morning when Mexico brokered a last-minute deal to delay its tariffs for a month, easing some of the immediate pressure.
+* The S&P 500 slid 0.8%, the Dow shed 122 points after recovering from a 665-point plunge, and the Nasdaq lost 1.2%. Despite the rebound, tensions remained high as Canada vowed to retaliate with tariffs on $105 billion of U.S. goods, setting the stage for continued market volatility.
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Triumph** soared 33.94% after announcing it will be acquired by private equity firms Warburg Pincus and Berkshire Partners for $3 billion. ($TGI)
+* **IDEXX Laboratories** popped 11.13% after the veterinary health-care company posted stronger-than-expected earnings for the fourth quarter. ($IDXX)
+* **Tempur Sealy** climbed 5.99% after a court ruling allowed it to acquire Mattress Firm, denying the Federal Trade Commission’s attempt to block the deal. ($TPX)
+* **Tyson Foods** rose 2.21% after the poultry and beef giant beat analysts' expectations on both the top and bottom lines last quarter. ($TSN)
+* **iShares MSCI Mexico ETF** gained 2.49% after President Trump announced that tariffs on Mexico would be delayed for one month, reversing earlier losses. ($EWW)
+
+# What’s down 📉
+
+* **Boot Barn** sank 9.53%, extending its selloff from Friday’s disappointing third-quarter earnings report. ($BOOT)
+* **Polaris** tumbled 8.39% following a downgrade from UBS analysts, who slashed their price target for the motorcycle manufacturer from $67 to $48. ($PII)
+* **PVH** dropped 7.01% after Wells Fargo downgraded the apparel company to equal weight from overweight, citing inventory risk and foreign currency pressures. ($PVH)
+* **Tesla** fell 5.17% after reports suggested it may be losing market share in key EV markets. ($TSLA)
+* **iShares MSCI Canada ETF** declined 1.55% as investors assessed the potential impact of new tariffs on Canadian goods. ($EWC)
+* **Prologis** slipped 1.18% after Raymond James downgraded the real estate investment trust to market perform, citing elevated investor expectations following strong quarterly results. ($PLD)
+
+# 
+
+# Palantir’s AI Reign Just Went Into Overdrive
+
+**A Growth Story Even Wall Street Didn’t See Coming**  
+  
+Palantir just dropped an earnings report that had investors scrambling to hit the “buy” button. The data analytics firm posted a 36% jump in Q4 revenue to $828 million, smashing analyst expectations, while U.S. commercial sales skyrocketed 64%. If that wasn’t enough, CEO Alex Karp predicted “untamed organic growth” in AI demand, leading Palantir to raise its full-year revenue outlook to $3.75 billion, well above Wall Street’s $3.54 billion projection. The stock soared 22% in after-hours trading reaching $102.4, adding another chapter to its meteoric 340% rise in 2024.
+
+**The AI War Chest Gets Bigger**  
+  
+Palantir has long been a Pentagon darling, and that relationship is paying dividends. U.S. government sales spiked 45% to $343 million, thanks to expanded contracts with the Army and Special Operations Command. Meanwhile, Karp’s vision for an AI-powered defense industry is taking shape—Palantir inked a partnership with AI startup Anthropic to bring its language models into U.S. intelligence operations, while deepening ties with weapons maker Anduril. Translation? Big tech and big defense are merging, and Palantir is at the center of it all.
+
+**A Political Tailwind for Palantir**  
+  
+Investor enthusiasm for Palantir has surged since Trump’s return to the White House, with expectations that his administration will double down on defense spending and favor U.S. tech firms over foreign competitors. Palantir has positioned itself as a key player in this vision—Chief Technology Officer Shyam Sankar recently outlined a blueprint to revitalize U.S. manufacturing and defense technology, while Karp has been vocal about the need for the U.S. to maintain technological dominance. Citing political scientist Samuel Huntington, Karp argued that global power has historically been shaped by technological and military strength—a stance that reinforces Palantir’s role in securing America’s AI and defense future.
+
+**What’s Next? More AI, More Government $$$**  
+  
+Palantir expects U.S. commercial sales to jump another 54% in 2025 and is still raking in major government contracts, including a $619 million Army deal through 2028. But it’s also navigating a shifting AI landscape, especially after China’s DeepSeek debuted an AI model that rattled U.S. tech stocks. Karp is unfazed, telling CNBC that America needs an “all-country effort” to maintain its edge. With AI, defense, and geopolitical tensions all fueling its rise, Palantir isn’t just riding the AI wave—it’s steering the ship.
+
+# 
+
+# Market Movements
+
+* 🚗 **Tesla’s California Car Registrations Drop 12% in 2024**: Tesla’s vehicle registrations in California fell 12% last year, marking the automaker’s fifth consecutive quarterly decline in the state. The drop was attributed to high interest rates, increasing competition, and CEO Elon Musk’s involvement in the U.S. election. Despite the overall decline, the Model Y remained California’s best-selling vehicle with 129,000 units sold, while Model 3 sales fell 36% to 53,000. ($TSLA)
+* 🏦 **Trump Establishes Sovereign Wealth Fund, Suggests It Could Buy TikTok**: President Trump signed an executive order to create a U.S. sovereign wealth fund aimed at economic development, infrastructure projects, and potential strategic investments. Treasury Secretary Scott Bessent stated the fund would be operational within 12 months, leveraging U.S. assets and possibly tariff revenue. Trump floated the idea of using the fund to acquire TikTok, which is facing a 75-day divestment deadline due to security concerns. 
+* 🤝 **SoftBank and OpenAI Form AI Venture with $3B Annual Investment**: SoftBank and OpenAI announced a 50-50 joint venture, SB OpenAI Japan, to accelerate AI development, with SoftBank committing $3 billion annually. The partnership aligns with SoftBank’s broader push into artificial intelligence and marks a significant expansion of OpenAI’s global presence. Analysts see the move as a strategic counter to Microsoft's dominant stake in OpenAI. ($SFTBY)🚗 **Stellantis Restructures Amid Weak EV Market and Tariff Uncertainty**: Stellantis is streamlining its operations by appointing new brand heads to drive growth as it navigates declining EV demand and new tariff concerns. The automaker is reworking its strategy to boost profitability, but investors remain cautious. Stellantis shares fell nearly 3.88% on the tariff news. ($STLA)
+* 🥩 **Tyson Foods Raises Sales Forecast After Strong Q1 Earnings Beat**: Tyson Foods increased its annual sales forecast, expecting up to 1% growth following a better-than-expected first quarter. Revenue rose 2.3% to $13.62 billion, while adjusted earnings per share of $1.14 exceeded Wall Street’s $0.88 estimate. Shares rose 2% on the upbeat results. ($TSN)
+* 🔋 **Honda to Invest $1B in Ohio EV Hub with Tesla-Style Giga Presses**: Honda announced plans to invest over $1 billion in Ohio to establish a dedicated EV production hub, including new battery manufacturing and Tesla-style giga presses. The initiative aims to modernize Honda’s EV strategy and improve efficiency as competition intensifies. Honda joins a growing list of automakers investing heavily in U.S.-based EV production. ($HMC)
+* ⚖️ **X Expands Lawsuit Against Major Brands Over Ad Boycott**: X (formerly Twitter) broadened its legal battle against companies including Nestlé, Colgate-Palmolive, and Shell, alleging an organized ad boycott that cost the platform billions. The lawsuit accuses the brands of colluding to damage X’s revenue through coordinated ad pullbacks. The legal fight highlights ongoing tensions between Elon Musk’s platform and major advertisers. ($CL) ($SHEL)
+
+# 
+
+# Trump Hits Pause on Canada, Mexico Tariffs—For Now
+
+After days of economic anxiety and diplomatic back-and-forth, President Trump has agreed to pause tariffs on Canadian imports for at least 30 days, according to Prime Minister Justin Trudeau. The move follows a similar one-month delay for tariffs on Mexico, with both countries making commitments to crack down on fentanyl trafficking.
+
+The original plan? 25% tariffs on imports from Mexico and Canada, and a 10% tariff on Chinese goods, with Canadian energy products set for a slightly lower 10% levy. Now, the Canadian tariffs are on hold, with Trump saying he’ll reassess after seeing progress on border security and drug enforcement efforts.
+
+**Canada’s Counterpunch**  
+  
+Trudeau wasn’t bluffing when he warned of retaliation. Canada had lined up $155 billion in counter-tariffs on U.S. goods, including beer, clothing, and household appliances. Ontario even banned U.S. liquor from shelves (sorry, Tito’s fans). The Canadian prime minister framed the tariffs as a betrayal, invoking WWII and 9/11 as moments when Canada stood with the U.S.—not exactly the tone of a friendly trade dispute.
+
+**The Market Fallout**  
+  
+Investors breathed a small sigh of relief, but the market remains rattled. Goldman Sachs warned that if tariffs remain in place, S&P 500 earnings could take a 2-3% hit, with automakers, homebuilders, and consumer goods companies among the hardest hit. Car prices could rise by $3,000 on average, homebuilding costs would climb, and Super Bowl guacamole might as well be caviar with avocado prices set to skyrocket.
+
+Meanwhile, Trump’s claim that tariffs would pressure Canada to become the 51st U.S. state (yes, he actually said that) isn’t exactly making trade negotiations smoother.
+
+**What’s Next?** For now, Trump is giving Canada 30 days to prove it’s serious about border security and drug enforcement before tariffs go back on the table. Mexico got a similar deal after its president deployed 10,000 soldiers to its northern borderto curb fentanyl shipments.
+
+But if Trump does move forward with tariffs in a month, this could become one of the most aggressive trade wars in modern history—one that could disrupt $1.4 trillion in trade and send shockwaves through supply chains, consumer prices, and financial markets.
+
+Stay tuned. This saga is far from over. 
+
+# On The Horizon
+
+# Tomorrow
+
+The week kicks off with a spotlight on labor market data, starting with the job openings report. November's 8.1 million job openings and a 4.8% openings rate signaled a robust hiring environment, and economists are eyeing December's numbers for similar strength. But for anyone rooting for a Fed rate cut, a little softness in the data wouldn’t hurt.
+
+Tuesday brings a heavyweight lineup of earnings from across industries. Expect updates from Pfizer ($PFE), PayPal ($PYPL), Spotify ($SPOT), PepsiCo ($PEP), Chipotle ($CMG), Snap ($SNAP), and Ferrari ($RACE), to name just a few. With so many big players reporting, Wall Street is bracing for a flurry of headlines.
+
+# After Market Close:
+
+* **Alphabet** has been throwing down serious cash in the AI arena, racking up $13 billion in capital expenditures last quarter—a hefty 62% year-over-year jump. Investors are eager to see if the spending spree is paying off, especially with DeepSeek stirring doubts about the necessity of such massive AI investments. And then there’s Google Search. Is ChatGPT stealing its lunch? With a reasonable valuation compared to its Magnificent 7 peers, a solid performance tomorrow could send Alphabet shares climbing. Consensus: $2.13 EPS, $96.67 billion in revenue. ($GOOGL)
+* **Advanced Micro Devices** has been living in Nvidia’s shadow when it comes to AI dominance. But the latest buzz from DeepSeek—that companies might not need ultra-expensive chips to build AI models—could be AMD’s ticket to the big leagues. While it may not outbuild Nvidia, AMD’s budget-friendly chips could appeal to tech giants chasing AI cost-efficiency. Tomorrow’s results will show if AMD can capitalize on this shift. Consensus: $1.09 EPS, $7.54 billion in revenue. ($AMD)",2025-02-03 23:37:56,22,8,Daytrading
+"I'm a full time trader and this is everything I'm watching and analysing in premarket 03/02, including a detailed rundown of everything you need to know on tariffs, as well as all the other company specific news.",https://www.reddit.com/r/Daytrading/comments/1igowam/im_a_full_time_trader_and_this_is_everything_im/,"MACRO NEWS:
+
+* Australia retail sales came in better than expected. Still a decline MOM but less than expected
+* Chinese Caixin Manufacturing PMI came in more or less as expected, a slight miss. Just about in expansion. 
+* Manufacturing PMIs in Europe:
+* All in contraction. UK, Eurozone and Germany slightly ahead of expectations, Italy and France slightly below, but more or less in line. 
+* Preliminary CPI for Europe came in slightly hotter than expected. 
+* Headline Inflation rate YOY came 2.5% vs 2.4% expected
+* Core inflation came out 2.7% vs 2.6% expected. 
+* Later we have ISM manufacturing PMI for US. 
+* That's the big macro event for the day. Markets expect a return to expansion. 
+
+TARIFF NEWS:
+
+* Trummp signed 25% tariffs on Mexico and Canada, 10% on China. framed the move as a response to illegal immigration, drug trafficking, and national security concerns, citing fentanyl as a major issue.
+* Canada counter acted with a 25% tariff on $155B worth of US goods. This is, in truth rookie numbers, and Canada HAD to do this to try to save their plunging currency. I wouldn't read too much into this. Seems totally unviable to go to war on tariffs with US given their reliance on exports to US. This will likely be resolved in negotiation.
+* EY note that the US impact of the tariffs to inflation will be 0.7% in Q1, and 0.4% in 2025. They said the inflation would be transitory as demand destruction and hawkish fed would be disinflationary. 
+* They said that since 80% of Mexican exports go to US and exports are 40% of their economy, Real GDP impact will be 1.6% in 2025 and 4.5% in 2026. Canada GDP impact will be 2.7% in 2025 and 4.3% in 2026. 
+* JPM model estimates suggest that a sustained 25% US tariff will be severe enough to push Mexico and Canada into recession. Now sees Mexican recession as base case, following the Tariffs. 
+* Trum-p will be meeting with Mexico and Canada PMs today - potentially leaves door open to 11th hour negotiations. 
+* Instead of counter active measures, WSJ reports the China are ready to propose a deal with US, including a pledge to not devalue the yuan, an offer to make more investments in the U.S and a commitment to reduce exports of fentanyl precursors. This is a big positive. 
+* China had however mentioned that they will file a complaint to WTO in response to the tariffs. 
+* Trum-p’s latest tariffs on China, Canada, and Mexico include eliminating the ""de minimis"" exemption, which allowed goods under $800 to enter the U.S. tariff-free—a major hit to Chinese e-commerce giants like PDD's TEmU and Stein. They have used this loophole to flood cheap imports. 
+* If Trum-p’s 25% tariffs on Mexico and Canada and 10% on China get fully passed down to consumers, and in the worst-case scenario where buyers don’t switch to U.S.-made goods, ING estimates the added cost could be $835 per person or $3,242 per family of four, based on the latest trade data.
+* China makes up nearly 30% of all U.S. apparel imports, and Bloomberg Intelligence estimates clothing prices could rise up to 2% for brands that depend heavily on Chinese manufacturers.
+* Nearly half of U.S. auto parts imports come from Canada & Mexico, and American automakers rely on those supplies. That could mean higher costs for new cars and repairs.
+* Tr-ump says tariffs on Europe will be next. 
+
+  
+MARKET REACTION:
+
+* Big gap down on indices, particularly so tech. 
+* Some recovery in premarket. SPX was at 5907, but has recovered to 5941. The key level here is 5923. We have support at around 5925-5940. Above 5925, buying pressures should push us higher into the week. 
+* Dollar was significantly higher at first, has pared some of those gains. 
+* Bond yields are not particularly higher though with is a fact that perhaps the market is not seeing the tariffs s totally credible.
+* Gold also was lower in overnight trading, has now recovered higher. Gold should see higher pressures under tariffs. 
+* VIX higher, but paring some gain. Expecting some vix crush here through the week, provided macro data plays ball. 
+
+
+
+MAG 7: 
+
+* TSLA - egistered just 1,141 new cars in France in January, down 63% YoY from 3,118, per La Plateforme Automobile. 
+* TSLA - Cantor Fitzgerald raises PT to 425 from 365. 
+* AAPL - BofA reiterates Buy rating, PT of 265. Says they see potential tariff impact as manageable. In last tariff cycle, Apple got an exception for iPhone. it doesn't seem they have that this time, but they dont' see massive impact. Apple may or may not raise US prices in response. 
+* AAPL - as canceled a project to build advanced AR glasses that would pair with its devices, marking a major retreat as it struggles to create a mainstream hit post-Vision Pro.
+* NVDA - news that TSMC's $TSM CoWoS-L is expected to reach 50-60% share this year, up as much as 4x from 15% in 2024, due to high demand for Nvidia's $NVDA Blackwell 
+* META - EXPECTED TO REINCORPORATE IN TEXAS, EXIT DELAWARE
+* META - their total investment in smart glasses will reach $100B says FT. 
+
+  
+OTHER COMPANIES:
+
+* PLTR earnings after close
+* DDOG - UBS reiterates buy rating on DDOG, PT of 175. Said they spoke to a number of DDOG partners ahead of Q4 2024 print, commentary signalled an improving demand backdrop suggesting a beat is likely. With this the case, and weak sentiment, it looks like a good risk reward
+* BAH - Raymond James upgrades BAH to outperform pt at 150. Said they see the substantial year over year backlog increase, $1B buyback and 30% post election decline as pointing to a favourable risk reward. Said fundamentals are strong and DOGE has dented trading multiple by 30% since election. 
+* DXCM - Redburn Atlantic upgrades to buy from neutral, raises PT to 115 from 85. Dexcom is set to benefit from structural growth in the continuous glucose monitoring (CGM) market, supporting a 16% revenue CAGR FY24-27E as it expands into the underpenetrated Type 2 non-insulin segment. Said they are confident in next gen G8 sensor, while revenue mix has stabilised. 
+* STZ - downgraded at Piper Sandler to Neutral from overweight, lowers PT to 200 form 245. Downgrades on the tariffs news. Their assumption is that they last for 1 quarter. They think hat if these tariffs last a full year, there will be a.$3.00–3.75 hit to F26E EPS
+* UBER - Oppenheimer reiterates outperform rating, PT of 85. They are reiterating Uber as their best idea heading into Q4 as investor concerns regarding Robotaxi have created an attractive buying opportunity. Sentiment has improved, but they remain cautious. 
+* CAT - UBS upgrades to neutral form sell, raises PT to 385 from 355. Expectations have reset lower. Said they see 2025 outlook as making risk reward balanced. 
+* CRWD - down as downgraded to neutral from outperform at Barid, PT of 430 up from 390. 
+* COIN - Coinbase obtains VASP registration in the UK
+
+  
+OTHER NEWS:
+
+* Tom lee says buy the tariff dip in stocks, but not in bitcoin, which he argues will have a difficult February due to the fact that it is a strong risk on asset. 
+* Tru=mp, when asked about Powell not cutting rates, said that he thinks holding rates in January was the right thing to do. 
+* DOGE has saved taxpayers over $50B in just 13 days of operation!
+* The Treasury Department has reportedly granted Elon Musk’s DOGE access to a system that processes entitlement benefits, grants, and tax refunds for Americans
+* T RUMP ASKED VANCE TO OVERSEE STEPS FOR REFORM AT USAID
+* Denmark PM says that Greenland is not for sale. 
+* OPenAI's Sam Altman says that AI will soon seem to have emotion and will be able to spark debate. 
+* OpenAI rolls out a new tool called Deep Research, an AI tool designed  to handle time-intensive research tasks—pulling data from online sources, PDFs, and user files to generate detailed reports in minutes instead of hours.
+* OPEC+ LIKELY TO STICK TO OIL OUTPUT HIKE PLAN - REUTERS
+* Trum p threatens tariffs on Europe next. France's Macron says if they are attacked on commercial interests, Europe will have to make itself respected. 
+* India is reviewing its stance on cryptocurrencies due to shifting attitudes towards the virtual asset in other countries, a senior government official told Reuters on Sunday.
+* NATO says that NEW DEFENCE SPENDING PLEDGE FROM NATO COUNTRIES TO BE DECIDED LATER IN THE YEAR, WILL BE CONSIDERABLY HIGHER THAN 2% OF GDP
+
+",2025-02-03 13:20:24,2,0,Daytrading
+Any Advice Please guys?,https://www.reddit.com/r/Daytrading/comments/1igf3jw/any_advice_please_guys/,"Hey guys,
+
+I’ve been paper trading Tesla options (some Gold and Nvidia) for about 3/4 months in the UK (using market mirrors contracts for each trade) and managed to do around 31k in profit!
+
+I downloaded each month’s data and have roughly a 68% win rate across the board! Which is great however this month January has been a disaster class and really thrown me off!
+
+I’m super keen to go for a live account but is it possible to make any money starting from £300?
+
+Also I feel like the paper accounts really are rigged to entice those with no knowledge into the market before they get rapidly liquidated.
+
+Any help/advice is welcome on this thread or even via DM!",2025-02-03 02:52:20,1,0,Daytrading
+Stock Market Today: Trump Tariffs Spook Markets + Chili’s Is Eating Everyone’s Lunch,https://www.reddit.com/r/Daytrading/comments/1iewmup/stock_market_today_trump_tariffs_spook_markets/,"* Stocks were holding steady on Friday—until the White House threw a curveball. The administration announced that new tariffs on Mexico, Canada, and China would take effect on Saturday, sending markets into a late-session slump. The S&P 500 fell 0.5%, the Dow dropped 337 points, and the Nasdaq slid 0.3%.
+* Despite the rough finish, January still ended on a positive note. The Dow gained 4.7% for the month, with the S&P 500 up 2.6% and the Nasdaq climbing 1.5%. Investors are now bracing for more volatility as trade tensions ramp up and AI-driven market moves continue.
+
+# 
+
+# Winners & Losers
+
+# What’s up 📈
+
+* **Atlassian** surged 14.92% to a 52-week high after posting strong AI-driven growth and surpassing earnings expectations. ($TEAM)
+* **AST SpaceMobile** rallied 11.15% after receiving FCC clearance to test its satellite-based cellular broadband service. ($ASTS)
+* **Eastman Chemical** gained 7.53% after exceeding Q4 estimates and issuing a strong full-year earnings outlook. ($EMN)
+* **Vertex Pharmaceuticals** popped 5.31% following FDA approval of Journavx, the first new non-opioid painkiller in decades. ($VRTX)
+* **AbbVie** climbed 4.70% after beating Q4 expectations and reaffirming long-term revenue growth through 2029. ($ABBV)
+
+# What’s down 📉
+
+* **Deckers Outdoor** plummeted 20.51% despite beating Q3 expectations, as analysts raised concerns about future demand. ($DECK)
+* **Beazer Homes** tumbled 20.00% after posting Q1 earnings below consensus expectations, despite revenue exceeding estimates. ($BZH)
+* **Walgreens Boots Alliance** plunged 10.30% after announcing it will suspend its quarterly dividend as part of a turnaround effort. ($WBA)
+* **Chevron** fell 4.56% after missing Q4 earnings expectations due to its refining business posting its first loss in four years. ($CVX)
+* **Colgate-Palmolive** slid 4.60% after reporting weaker-than-expected Q4 revenue and issuing a cautious 2025 sales outlook. ($CL)
+* **Nvidia** dropped another 3.67%, closing out a brutal week down roughly 14% following DeepSeek-related sell-offs. ($NVDA)
+
+# 
+
+# Trump Vows Tariffs On Mexico, Canada, And China to Hit Saturday With More in Coming Months
+
+**Tariffs Incoming, No Escape Hatch**  
+  
+Trump’s tariff hammer is about to drop, and it’s hitting just about everything: oil, chips, steel, drugs—you name it. Starting Saturday, the U.S. will slap 25% tariffs on imports from Canada and Mexico and a 10% levy on China, all under the guise of combating illegal fentanyl and securing supply chains. And this is just the opening salvo—Trump promised even more tariffs on European goods and additional hits to key commodities by mid-February. Wall Street took notice, with markets dipping as investors braced for ripple effects.
+
+**Trade Wars 2.0, Now with More Collateral**  
+  
+The biggest target? The auto industry. Modern car manufacturing is a three-country relay race, with vehicles crossing North American borders multiple times before hitting dealerships. Tariffs could send production costs skyrocketing and dent an already shaky sector. Meanwhile, the energy market is on edge—80% of Canada’s oil exports go straight to the U.S., and with refiners relying heavily on Canadian crude, any tariff-induced price spike could mean higher gas prices just as inflation was cooling off.
+
+**Retaliation is Already in the Works**  
+  
+Canada and Mexico aren’t taking this lying down. Canadian Prime Minister Justin Trudeau vowed a “forceful but reasonable” response, and Mexico hinted at countermeasures that could hit U.S. automakers, agriculture, and consumer goods. A 25% duty on Mexican imports could have a multibillion-dollar impact on U.S. households, raising prices on essentials like fresh produce, meat, and electronics. Meanwhile, the EU is quietly preparing its own counterpunch, with analysts predicting a drawn-out trade fight.
+
+**A Political and Economic Gamble**  
+  
+While economists warn that these tariffs could reignite inflation and disrupt supply chains, Trump isn’t fazed. He’s selling tariffs as a nationalist win, claiming they’ll “make us very rich and very strong.” The real test? Whether businesses and consumers are willing to absorb the fallout. With inflation fears still lurking and global trade partners gearing up for battle, Trump’s tariff strategy could be a high-stakes gamble that reshapes markets for months to come.
+
+# 
+
+# Market Movements
+
+* 📱 U.S. Investor Group Makes $20 Billion Offer for TikTok: A consortium led by Jesse Tinsley and YouTuber MrBeast has raised over $20 billion for a bid to acquire TikTok. Major investors include Roblox CEO David Baszucki and Anchorage Digital CEO Nathan McCauley. ByteDance has not yet responded to the offer. ($RBLX)
+* 🔧 Google Offers Voluntary Exit Program to Cut Costs: Google has launched a voluntary severance program for employees in its U.S. Platforms and Devices team as part of broader cost-cutting efforts to offset heavy AI investments. ($GOOGL)
+* 🚫 DOJ Sues to Block HPE’s $14 Billion Acquisition of Juniper Networks: Regulators filed a lawsuit to stop Hewlett Packard Enterprise from acquiring Juniper Networks, arguing the deal could reduce competition and raise prices in the U.S. networking market. HPE and Juniper jointly hold 20% of the sector, competing with Cisco. ($HPE) ($JNPR) ($CSCO)
+* ₿ MicroStrategy Raises $563 Million to Buy More Bitcoin: The company issued a preferred stock offering at $80 per share, below its $100 liquidation preference, continuing its strategy of using capital to acquire Bitcoin. ($MSTR)
+* 💊 FDA Approves Vertex’s Non-Opioid Painkiller for Acute Pain: The FDA gave the green light to Journavx, a non-opioid painkiller developed by Vertex Pharmaceuticals, which aims to treat moderate-to-severe acute pain without addiction risk. The company projects annual sales exceeding $1 billion. Shares rose 4.5% on the news. ($VRTX)
+* 🇨🇦 Walmart to Invest $4.51 Billion to Expand in Canada: Walmart's Canada division will invest billions to modernize its supply chain and build new supercenters in Ontario and Alberta by 2027. ($WMT)
+* 🏥 Allstate Sells Group Health Business to Nationwide for $1.25 Billion: The deal will generate a $450 million book gain and boost deployable capital by $900 million for Allstate. ($ALL)
+
+# 
+
+# Chili’s Is Eating Everyone’s Lunch
+
+  
+Chili’s just delivered one of the most jaw-dropping turnarounds in the restaurant industry. Brinker International’s flagship chain posted a record 31% jump in same-store sales last quarter, fueled by a 20% surge in foot traffic—a number so wild it made Wall Street do a double take. The stock soared 16% to an all-time high of $180, as the company flexed its ability to attract value-conscious diners while leaving competitors like Darden and Bloomin’ Brands in the dust.
+
+**Marketing That Actually Works**  
+  
+Turns out, bombarding social media with Triple Dipper ads and a relentless push for its $10.99 “3 for Me” deal pays off. Chili’s doubled sales of the Triple Dipper, which now accounts for 14% of total revenue, up from 7% a year ago. CEO Kevin Hochman says competitors can try to undercut prices, but they can’t replicate the experience—especially after Chili’s revamped its menu and operations to ensure that every meal delivers.
+
+**Less Is More in the Kitchen**  
+  
+Chili’s didn’t just throw money at ads; it cleaned up its entire back-of-house. The chain cut 13 menu items and 12 pantry SKUs, making way for quality upgrades like fresh-made guac, better chicken, and crispier wings. Meanwhile, a new kitchen display system and TurboChef ovens have made cooking more efficient, allowing staff to handle the flood of new customers without missing a beat. Even It’s Just Wings, Chili’s virtual brand, got streamlined—ditching its dedicated kitchen station to free up space for high-growth menu items.
+
+**What’s Next? More Growth, More Margs**  
+  
+With demand booming, Brinker raised its full-year revenue outlook for the second time in three months, now forecasting $5.15B-$5.25B in sales. Hochman is already planning 200 Chili’s remodels to make locations even more inviting. And for those worried about inflation? The $6 margarita is here to stay. As far as turnarounds go, this one isn’t just working—it’s a masterclass in how to win over price-conscious diners while keeping margins intact.
+
+# 
+
+# On The Horizon
+
+# Next Week
+
+Wall Street’s got a full plate of economic data next week, kicking off with January manufacturing PMI on Monday. Job openings and factory orders follow on Tuesday, while Wednesday brings services PMI and ADP’s private payroll report. Thursday delivers the latest jobless claims, but the real headliner is Friday’s monthly jobs report—the one that actually moves markets.
+
+Earnings season may be past its peak, but the reports keep rolling in. Investors still have plenty of numbers to sift through, with a few key names left to take center stage.
+
+# Earnings:
+
+* **Monday:** Palantir ($PLTR), Tyson Foods ($TSN), NXP Semiconductors ($NXPI), Clorox ($CLX)
+* **Tuesday:** Alphabet ($GOOGL), Advanced Micro Devices ($AMD), Pfizer ($PFE), PayPal ($PYPL), Spotify ($SPOT), PepsiCo ($PEP), Chipotle ($CMG), Merck ($MRK), UBS ($UBS), Snap ($SNAP), Electronic Arts ($EA), Amgen ($AMGN), Mondelez International ($MDLZ), Mattel ($MAT), Estee Lauder ($EL), Cummins ($CMI), Ferrari ($RACE)
+* **Wednesday:** Disney ($DIS), Uber ($UBER), Arm Holdings ($ARM), Novo Nordisk ($NVO), MicroStrategy ($MSTR), Qualcomm ($QCOM), GSK ($GSK), Ford ($F), Toyota ($TM), Boston Scientific ($BSX), Allstate ($ALL), The New York Times ($NYT), Harley Davidson ($HOG)
+* **Thursday:** Amazon ($AMZN), Eli Lilly ($LLY), Bristol-Myers Squibb ($BMY), AstraZeneca PLC ($AZN), Kellanova ($K), Yum Brands ($YUM), Cloudflare ($NET), Roblox ($RBLX), Under Armour ($UA), Pinterest ($PINS), Affirm ($AFRM), Honeywell ($HON), Peloton ($PTON), The Hershey Company ($HSY), Take-Two Interactive Software ($TTWO), Skechers ($SKX)
+* **Friday:** CBOE Global Markets ($CBOE), Fortive ($FTV), Flowers Foods ($FLO)",2025-02-01 02:49:07,1,0,Daytrading
+My first month of trading options (as a serious trader),https://i.redd.it/gorzf9bpgfge1.jpeg,"
+I have dabbled in trading options contracts for a few years, originally getting started during the GME/AMC phase. I was lucky enough to make a decent amount from AMC stock and decided to use some of those extra funds to learn options trading. I lost about $5,000 in one week and didn’t touch options again until about a year and a half ago.
+
+When I restarted, I focused on learning the basics and buying smaller amounts. I would fund my account with $300 to $1,000 and usually blow through it within a month. After funding my account multiple times and losing about $4,000 overall while “learning” how to trade options, I had a realization: Most of my losses came from losing conviction and selling early for a loss rather than averaging in responsibly and following through. My market prediction rate is moderately high, I just needed discipline. 
+
+Hence, 2025. New year, new trading me.
+
+Started off the year with about $1300 in the account and my gains are about $6300 for the month of January. My trading technique is very simple. I only trade a few tickers where I study the charts, but I watch all top holdings of the S&P for general market trends. I also only utilize MACD, RSI, VWAP and Volume indicators, awaiting for basic oversold/overbought signals.
+
+Now, I love watching charts across all markets 24/7. After some years of observing trends and missing opportunities that I foresaw, my confidence in trading has grown. I now average into my positions rather than impulsively buying with half or most of my portfolio. I minimize losses by selling when a limit has been reached. And most importantly, controlling my emotions while I trade. My goal is realistically $200 a day, with an end of the year account total of $25k. Hoping I can surpass this much sooner if I can continue the trend.
+
+",2025-02-01 01:08:00,216,47,Daytrading
+NVDA TO THE MOON BOYS 🚀 (10k ——> 18k in 2 DAYS BABY),https://www.reddit.com/gallery/1ij7fyb,NVDA FILLING UP THE GAP BOYS. ITS STILL CHEAP BOYS. JOIN ME. BUY BUY BUY. ,2025-02-06 17:03:13,190,59,wallstreetbets
+$NVDA Calls - Why I’m in,https://i.redd.it/06tb82c7ijhe1.jpeg,"
+AI demand is exploding → Everyone needs GPUs
+
+Who sells them? NVIDIA.
+
+Stargate plan → More AI demand → More $$$
+	•	Earnings per share (EPS) going up, but stock is down → Opportunity
+	•	Fundamentals remain strong, analysts are bullish
+
+Stock has been red for the last 3 months = Potential earnings run-up
+	•	Earnings in 20 days → Market could start pricing it in
+	•	DeepSeek FUD = Nonsense
+	•	“China making its own AI chips!” → Reality: DeepSeek uses NVIDIA chips
+	•	More competition for OpenAI & Anthropic, not NVIDIA
+	•	DeepSeek struggling to get users → Not even real competition
+	•	NVIDIA wins.
+
+Trump Tariffs = Bluff & Negotiation Tactic
+	•	Trump starts extreme, then dials it back
+	•	Market overreacting to something that may not stick
+	•	He just met with Jensen Huang → He’ll do what’s best for U.S. companies
+
+Amazon Earnings Tonight = Tech Volatility
+	•	Amazon beats? → NVIDIA gets a boost
+	•	Amazon flops? → Could drag NVIDIA down
+
+Risks to Watch
+	1.	Trump tariff escalation – If he goes harder than expected, sentiment could take a hit
+	2.	China retaliation – Aggressive response from China could impact NVIDIA sales
+	3.	Broad market downturn – If macro conditions worsen, NVIDIA could get dragged down
+	4.	Amazon earnings tonight – A big miss could hit tech stocks short-term
+	5.	Earnings miss in 20 days – Unlikely, but weak guidance could hurt the stock
+	6.	Competition narrative – If media hypes up another “AI chip competitor,” weak hands could panic
+
+Market shook for the wrong reasons
+	•	DeepSeek isn’t real competition (they use NVIDIA chips)
+	•	Trump tariffs likely a bluff
+	•	AI demand still skyrocketing 
+
+My plays:
+	•	4x $120C (05/16) @ $12.67
+	•	5x $120C (04/17) @ $11.40
+	•	1x $110C (10/17) @ $25.87
+
+Let’s see how this plays out 💰 ",2025-02-06 15:47:40,82,26,wallstreetbets
+"SMCI - Road to Redemption, or The Final Blow?",https://www.reddit.com/r/wallstreetbets/comments/1ij4667/smci_road_to_redemption_or_the_final_blow/,"# SMCI - Road to Redemption, or The Final Blow?
+
+Gamblers, regards, and fellow degens, lend me your ears. We are approaching what could be one of the largest opportunities of the year: aping into an equity that has been continually embroiled in SEC investigations.
+
+I, of course, am speaking of Supermicro (SMCI).
+
+Now, many of you may be familiar with super micros, but this one is a bit different. If you are not familiar, Supermicro (henceforth SMCI) became the poster child for GPU server buildouts, mainly leveraging their liquid cooling capabilities which made them highly appealing to hyperscalers. There are entire realms of study dedicated to the science cooling server farms, and those circles have supported liquid cooling for quite a while, and they are a total darling of Nvidia. It traded to a high of $124 during AI exuberance as a pick-and-shovel play, only to have an Icarian fall back to low double digits, trading to $17 at its lowest.
+
+This fall was due to the now-defunct Hindenburg short selling group, who in 2024 released a report that SMCI was engaging in less than savory, and manipulative at worse, accounting practices that essentially reported revenue that had not been received. Additionally, the report alleges that the company was evading export restrictions on GPUs by shipping to Russia. Unverified, but it is known that Chinese companies DID get their hands on restricted GPUs through SMCI products. The next day, SMCI delayed the filling of its 10-k, crushing the stock price. The DoJ then probed the company. SMCI hired Ernst & Young to audit the company which saw the auditors quit as they experienced what they referred to as an unwillingness on the part of executives to aid them. The equity price was entirely demolished by this point.
+
+A somewhat bump in the stock price was due to regulatory bodies allowing them until Feb 25th, 2025 to publish their delinquent earnings.
+
+Now for the recent updates.
+
+Earlier this week, the company stated that they would release a business update next Tuesday, February 11th before the filing deadline on February 25th. This has rocketed the stock logarithmically as people anticipate un-audited earnings and confirmation that they will be able to file by the deadline. Additionally, they stated that they have cooling racks with built-in Blackwell chips ready to go. If this is all true, and earnings are good, this stock price will skyrocket. We will see $50 by the end of the week, if not higher. This, of course, is delectable to struggling 'gards. I personally am eyeing Feb 28th 37 C @ 2.90.
+
+However, there are some major issues beyond those outlined within the saga.
+
+1. There is a major chance that they announce they will take this private. While they were able to secure BDO post E&Y failure, there has been little visibility on the progress of the audit and filing progress.
+2. There is a high chance that the company will restate past financials. This may not be a problem if forward guidance is good, but if there is no margin for error.
+3. Nvidia tried to distance itself from SMCI by vendoring to Gigabyte and ASRock. This could have greatly decreased potential revenue for SMCI
+4. In December, they considered a private investment in public equity by engaging Evercore, which would help them raise the capital. This casts doubts on the integrity of the financials and health of sales.
+5. There has been an absurd amount of dark pool buying, and a good amount of insider buying. What strikes me as strange, however, is that the insider buying is done by Cheung, the man who oversaw the ""botched"" financials.
+
+To conclude, I'm at a sort of impasse here. This is obviously a highly risky play, but I could not forgive myself if I did not put my balls on the table and it takes off. Part of this is me just talking to myself, but maybe you all will find some utility in reading this, or share your thoughts (or lack thereof).",2025-02-06 14:46:38,46,45,wallstreetbets
++20k AMD $110c 2/7,https://i.redd.it/76t0xbahqdhe1.jpeg,,2025-02-05 20:23:23,39,23,wallstreetbets
+Thoughts on this play? Thinking of riding these calls up until earnings on the 26th,https://i.redd.it/nd5gzp2yldhe1.jpeg,,2025-02-05 19:57:58,7,6,wallstreetbets
+Buying NVDA in 2020 and PLTR in 2023 is the closest feeling I have to being a boomer owning their home,https://i.redd.it/eolqqdam0dhe1.jpeg,,2025-02-05 17:58:25,2637,159,wallstreetbets
+Big Tech CapEx - AI race continues - Nvidia will benefit bigly,https://www.reddit.com/gallery/1ii0c03,"AI infrastructure spending is accelerating faster than expected, with Microsoft, Google, and Meta massively increasing their CapEx in 2025 to keep up with AI demand.
+
+CapEx Comparison: 2024 vs. 2025:
+
+- MSFT: 55.7B in 2024 to 80B in 2025
+- Google: 52.5B in 2024 to 75B in 2025
+- Meta: 39B in 2024 to 60B in 2025
+
+AI servers remain bottlenecked. Microsoft & Google can’t build AI data centers fast enough. That's why they couldn't beat expectations in cloud sales this quarter.
+
+CapEx is being funneled into GPUs, networking, and AI-specific chips. This should make NVIDIA the biggest winner of this trend.
+
+Also, OpenAI just introduced a new ""Deep Research"" AI model, designed for long-context reasoning. This will require even more compute power, further straining existing AI infrastructure. More power demand = more GPUs, networking gear, and data centers.
+
+As long as AI models grow in complexity and scale, NVIDIA and AI infrastructure players should benefit. 
+
+Even if Deepseek story was accurate, optimized model like Deepseek's will drive more demand, which will need even more powerful servers.
+
+All the cases for yet another great year for chip makers especially NVIDIA, don't you think?
+
+Position: Around 50k NVDA and 2x leverage NVDL stocks and options. 
+
+
+
+",2025-02-05 03:02:22,16,10,wallstreetbets
+AMD Warns weaker Q1 2025 Datacenter Revenue as Nvidia Leads in AI,https://www.reddit.com/r/wallstreetbets/comments/1ihz1lz/amd_warns_weaker_q1_2025_datacenter_revenue_as/,"Despite a strong performance in its financial performance, AMD expects first-quarter data center sales that may fall short of expectations, raising doubts about AMD's competitiveness amid Nvidia's dominance in the AI GPU sector.",2025-02-05 01:58:49,35,11,wallstreetbets
+"Guys, GOOG and AMD are releasing earnings today.",https://www.reddit.com/r/wallstreetbets/comments/1ihrkvn/guys_goog_and_amd_are_releasing_earnings_today/,"I'm re-writing to better along with WSB's rules. Alphabet Inc, the parent company of Google, is scheduled to release its fourth-quarter earnings today, February 4, 2025, after the market closes. Analysts anticipate earnings of $2.13 per share on revenue of $96.7 billion, up from $1.64 per share on $86.3 billion the previous year.
+
+I'm really interested in hearing about the company's substantial investments in artificial intelligence and the performance of its cloud services. They have been integrating its latest AI model (Gemini 2.0) across various products and services.
+
+Google Workspace and Sheets, their AI can now analyze data trends and automatically generating static charts, which can be inserted into spreadsheets Gemini AI is also now embedded within Google Cloud services, offering generative AI tools that enhance creativity and productivity. This integration aids in tasks such as code generation, data analysis, and the development of AI-driven applications. Subscribers to the Google One AI Premium Plan gain access to Gemini Advanced features, including enhanced AI capabilities across Google apps, 2 TB of cloud storage, and other premium services. And of course on Android and Pixel devices, Gemini AI powers features like Expressive Captions, which not only transcribe speech but also capture non-speech elements such as sighs and gasps, providing a more comprehensive understanding of audio content. Their AI is also being integrated into Google Search and the Chrome browser, enhancing the user experience with more intuitive and intelligent features. They claim that this should improve search results, personalized recommendations, and advance browsing capabilities. Maybe.
+
+In the cloud sector, Google Cloud is expected to report a 32% rise in revenue for the fourth quarter, following a 35% increase in the previous quarter. This growth rate surpasses that of competitors like Microsoft's Azure and Amazon Web Services. As of right now the stock has already risen 6.9% this year and 41% over the past twelve months, reflecting investor confidence in the company's strategic direction.
+
+As Alphabet prepares to announce its earnings, I wanna know how the company leverages its AI advancements and cloud services to drive future growth. So with that said, is anyone else playing earnings?
+
+Next, I wanted to talk about AMD. They are set to report its fourth-quarter earnings today, From what I've read, analysts anticipate a 22% year-over-year revenue increase to $7.53 billion, with adjusted earnings per share (EPS) expected to rise to $1.09 from $0.77 in the same period last year. Just like Google, I'm focused on checking out AMD's advancements in artificial intelligence. The company has recently unveiled several AI-centric products, including the 5th Gen AMD EPYC processors and the AMD Instinct MI325X accelerators, aiming to enhance performance in data centers and enterprise applications.
+
+But despite these innovations, AMD faces challenges in the AI chip market, primarily due to Nvidia's dominance and the trend of major tech companies developing custom silicon. Looking online, it looks like analysts are predicting that AMD's revenue from AI chips could reach $10 billion this year, driven by growth in the data center segment.
+
+And in the personal computing sector, AMD has expanded its AI capabilities with the introduction of the Ryzen AI 300 Series processors, featuring up to eight ""Zen 5"" CPU cores and the latest RDNA 3.5 graphics architecture.hese processors aim to deliver enhanced AI performance for consumer and commercial applications.
+
+Similarly to the GOOG call, I will be closely monitoring how the company leverages its AI advancements to drive future growth and compete in the evolving semiconductor landscape. But I'm fairly bearish on AMD.",2025-02-04 20:28:42,57,59,wallstreetbets
+Thank you PLTR,https://i.redd.it/x8d7xw3tw4he1.jpeg,Some pocket money for my wife’s boyfriend. Still recovering from some options bets. ,2025-02-04 14:42:49,51,6,wallstreetbets
+Brilliant or completely regarded?,https://i.redd.it/48uypq4kgzge1.jpeg,"Ported what was left in my cash account into NVDA today. Down about 60k in this account, hoping to make some of that back",2025-02-03 20:22:50,62,60,wallstreetbets
+Why Nvidia (most likely) won't meet the same fate as Cisco during the dotcom bubble,https://www.reddit.com/r/wallstreetbets/comments/1igqhyt/why_nvidia_most_likely_wont_meet_the_same_fate_as/,"Previous post was removed for not showing positions. I added them at the bottom.
+
+Since Nvidia's stock price took a hit, I've been seeing a lot of posts and comments comparing Nvidia to Cisco during the peak of the dotcom bubble and claiming that this is where the AI bubble pops, so I decided to write this post to comparing the two companies, how they are different, and why using a sample size of 1 to predict a crash is as regarded as it gets.
+
+This is written from the perspective of someone who worked in tech during the dotcom bubble (still do) and who had direct exposure to the crash. I will try to make it as consise and straight-to-the-point as possible since no one wants to read a book on a reddit post:
+
+1. **Business model**: CSCO's business model was as bad as it gets. They were selling infrastructure hardware that could last you years with little to no need for upgrades. When infrastructure was build, the demand for CSCO's products slowed drastically. NVDA sells compute power, which will always be in demand as long as there's demand for AI, which isn't stopping anytime soon (see next 3 points for why).
+2. **Demand**: CSCO's demand came primarily from tech startups with little to no cash (huge vulnerability) whereas NVDA's demand comes primarily from tech giants with more cash than god. Not to mention that CSCO's demand was cyclical and tied to the telecom industry, which was significantly smaller and less competitive than today's tech industry.
+3. **Innovation**: Tech giants stand to lose a lot if they don't constantly innovate, which makes underinvesting in AI significantly riskier than overinvesting, as repeated by most big tech CEOs. If one of the tech giants drops out of the AI arms race and the others are able to innovate on it, that one company is done. Losing market share in this ultra-competitive market is as bad as it gets, and significantly worse than losing cash on an investment that might never pan out. The revenue to R&D budget percentage is nearly **triple** now compared to what it was during the dotcom bubble. This is why demand for top-of-the-line hardware will remain strong for the forseeable future.
+4. **Moat and competition**: CSCO was overly concentrated on hardware, which opens the door for easy competition. NVDA's moat isn't their hardware, it's CUDA, which was being developed nearly a decade before any competitor even started to think about AI. This is what gave them a huge head-start (that is still nowhere close to being closed) and landed Nvidia where it is today. CUDA makes the costs of switching to a competitor's hardware too expensive to warrant doing so. As Jensen said: ""competition's hardware could be free and it would still be too expensive"".
+5. **Ease of investing and PEs**: Higher PEs today can be justified with the fact that investing has become incredibly easier than it was back then and that US stocks have become much more international. Back then you had to phone your broker, pay significant fees sometimes ranging from $50 to $100 (which made growth investing/active trading a lot less appealing than it is today for retail investors) and mail in a check and paperwork. The whole process could take several days/weeks. Online accounts did exist, but they were very rare and payment was still done by mailing or dropping off checks for a while. Now anyone can fund an account and make a trade for next to nothing in fees in a single day **even internationally**. So the fact that CSCO was trading at a PE of 200 at it's peak tells you how absolutely insanely overvalued it was. NVDA is trading at a PE of 47. Peanuts in comparison.
+6. **Growth prospects**: CSCO's growth was inflated by speculative demand whereas NVDA’s revenue is tied to measurable AI adoption (e.g., cloud giants spending billions on GPUs). People expected CSCO to grow based on their position in the market. NVDA has actual demand and revenue growth which is proven by TSMC's declared revenue and corraborated by countless giants.
+
+**Bonus note: Why deepseek isn't bearish news for Nvidia** (Completely going under the assumption that they are legit, which seems less likely every day); I'm not going to keep repeating the same copy-paste that's been on this sub for the past few days (Jevons Paradox, more compute means more demands, etc). A lot of people's arguments are based under the impression that the end-goal for AI is to make a chatGPT. It isn't. And even if it was, do you really think that deepseek is the ultimate and final form of chatGPT? What deepseek has done is shown people that startups can compete with giants (at least in regards to LLMs). This means more competition and more GPU sales (even if lower-end). **Competition in AI application is as bullish as it gets for Nvidia**. Giants aren't going to stop buying top-of-the-line GPUs just because someone was able to make a chatGPT using less ressources. This literally makes no sense (refer to point #3 above).
+
+Now I'm not completely discounting the possibility that NVDA might share a fate somewhat similar to CSCO's, but if AI really is a bubble that's going to eventually pop. It still has a long way to run based on the fundamentals and on the points discussed in this post. The upcoming earnings will be a testament to that fact.
+
+**TL;DR**: Nvidia has a better sales model that strongly encourages additional spending and recurrent purchases (Cisco's didn't). Competition between Nvidia's clients is fiercer than Cisco's clients. Revenue to R&D capex ratio is higher than it ever was (triple the dotcom bubble's). Nvidia's moat is in it's software (CUDA), which was being developped long before any competitor even touched AI and makes it extremely difficult for competition to chip away at Nvidia's market dominance. Cisco was too concentrated on hardware which had really poor upgrade incentives and made competition very easy. Cisco's growth was highly speculative whereas Nvidia's growth is real and supported.
+
+https://preview.redd.it/pbtinvyoqxge1.png?width=1324&format=png&auto=webp&s=569abc76cf768e370110312262aff663d25199e3
+
+",2025-02-03 14:37:31,222,123,wallstreetbets
+How many NVDA stock can this position protect?,https://i.redd.it/66h4ssbpauge1.jpeg,,2025-02-03 03:01:06,13,11,wallstreetbets
+Step 4 of 6 complete for Intel acquisition.,https://i.redd.it/8fv07mqj3tge1.jpeg,"Nvidia and Broadcom will be buying Intel at around 30$/share in a shared-use deal (like your wife).
+
+Step 1. Nana 🕊🙏
+
+The first news of acquisition was heard before the elections. This was step 2. The companies (NVDA and AVGO) preparing for a tighter (🫦) Foreign policy under a Trump administration.
+
+Step 3. Trump won and Republicans hold the majority in the House and Senate.
+
+Step 4. A Cheaper acquisition price needed to be established. No explanation necessary. Intel is down ""Bigly"".
+
+Step 5. Nvidia met with Trump most likely regarding Stargate AND upcoming Tariffs. And Trump stood his ground. Questionable on his part considering his push on AI dominance,  but okay..?
+
+Overall situation is that Nvidia and Broadcom will look to acquire Intel to avoid Tariffs while maintaining profit margins. And will obtain Intel at a steal of a price considering their 18A (1.8nm) process coming to maturity in H2 2025 ahead of TSMC's slightly larger and less advanced 2nm process. As well as their supposedly more efficient PowerVia technology. ""Intel is looking to fill all sockets"". I'm loading 2027 LEAPS. I will be buying/averaging 2 per month. See screenshot for position.
+
+",2025-02-02 22:59:13,136,65,wallstreetbets
+"“DeepSeek . . . reportedly has 50,000 Nvidia GPUs and spent $1.6 billion on buildouts”",https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-might-not-be-as-disruptive-as-claimed-firm-reportedly-has-50-000-nvidia-gpus-and-spent-usd1-6-billion-on-buildouts,"“[I]ndustry analyst firm SemiAnalysis reports that the company behind DeepSeek incurred $1.6 billion in hardware costs and has a fleet of 50,000 Nvidia Hopper GPUs, a finding that undermines the idea that DeepSeek reinvented AI training and inference with dramatically lower investments than the leaders of the AI industry.”
+
+I have no direct positions in NVIDIA but was hoping to buy a new GPU soon.",2025-02-02 22:58:30,11347,884,wallstreetbets
+One more to go,https://i.redd.it/yv33hiukzsge1.jpeg,,2025-02-02 22:36:57,6038,93,wallstreetbets
+"Despite Meeting With Nvidia CEO, Trump Sticks With Plan to Tariff Foreign Chips",https://www.pcmag.com/news/despite-meeting-with-nvidia-ceo-trump-sticks-with-plan-to-tariff-foreign,,2025-02-01 23:24:37,7014,850,wallstreetbets
+Jim Cramer said DeepSeek’s threat to NVDA earnings may not be so serious - CNBC,https://www.cnbc.com/2025/01/31/deepseeks-threat-to-nvidia-may-not-be-so-serious-jim-cramer-says.html,,2025-02-01 20:39:29,1131,349,wallstreetbets
+Nvidia stock has crossed a red line that points to more pain after this week's DeepSeek rout,https://markets.businessinsider.com/news/stocks/nvidia-stock-price-outlook-technical-analysis-deepseek-ai-moving-average-2025-1,,2025-02-01 04:25:27,943,198,wallstreetbets
+3.5k gains TSLA,https://i.redd.it/8epfb7co9gge1.jpeg,Why do I always do this with 1k but whenever I put anything over that i get fucked :(,2025-02-01 03:50:23,28,6,wallstreetbets
